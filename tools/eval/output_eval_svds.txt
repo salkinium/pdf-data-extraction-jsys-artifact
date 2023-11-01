@@ -1,0 +1,245 @@
+number_devices_total 2678
+Total devices 2621
+Header files device coverage
+68 {stm32wb15ccu6e, stm32wb55vey7, stm32wb55vyy6, stm32wl54jci7@m4, stm32wb55vcq7, stm32wle4j8i6, stm32wl55jci6@m0, stm32wb55cgu7, stm32wle5ccu7, stm32wb55rcv7, stm32wb55rgv6, stm32wl55jci6@m4, stm32wb35ccu6a, stm32wb50cgu6, stm32wle4jci7, stm32wb55rev7, stm32wl55ccu6@m4, stm32wl55jci7@m4, stm32wle4ccu7, stm32wle4jci6, stm32wb55vcq6, stm32wl55ccu7@m4, stm32wl54ccu7@m0, stm32wb15ccy6, stm32wb55ccu6, stm32wb55vgq7, stm32wb35ceu6a, stm32wb55vey6, stm32wb15ccy7, stm32wb55veq7, stm32wle4jbi6, stm32wb55rgv7, stm32wle5jci6, stm32wb55vgy6, stm32wb55ccu7, stm32wle5j8i6, stm32wl55jci7@m0, stm32wl54ccu6@m4, stm32wb55vcy6, stm32wle4cbu6, stm32wb15ccu6, stm32wle4c8u6, stm32wb55ceu6, stm32wl54jci6@m0, stm32wb55vcy7, stm32wb15ccu7, stm32wb55cgu6, stm32wle4ccu6, stm32wb55rcv6, stm32wl54jci6@m4, stm32wb55vgy7, stm32wl54ccu7@m4, stm32wl54jci7@m0, stm32wle5cbu6, stm32wb15ccu7e, stm32wb55rev6, stm32wb10ccu6, stm32wb55veq6, stm32wl54ccu6@m0, stm32wb30ceu6a, stm32wle5ccu6, stm32wb55ceu7, stm32wle5c8u6, stm32wl55ccu7@m0, stm32wb55vgq6, stm32wle5jbi6, stm32wle5jci7, stm32wl55ccu6@m0}
+number_hd_missing 68
+number_hd_missing_str 60
+0 []
+number_hd_missing_clean 0
+
+CMSIS SVD files device coverage
+219 [stm32f415ogy6, stm32f415rgt6, stm32f415vgt6, stm32f415zgt6, stm32f417ieh6, stm32f417iet6, stm32f417igh6, stm32f417igh7, stm32f417igt6, stm32f417igt7, stm32f417vet6, stm32f417vgt6, stm32f417vgt7, stm32f417zet6, stm32f417zgt6, stm32f423chu3, stm32f423chu6, stm32f423chu7, stm32f423mhy3, stm32f423mhy6, stm32f423mhy7, stm32f423rht3, stm32f423rht6, stm32f423rht7, stm32f423vhh3, stm32f423vhh6, stm32f423vhh7, stm32f423vht3, stm32f423vht6, stm32f423vht7, stm32f423zhj3, stm32f423zhj6, stm32f423zhj7, stm32f423zht3, stm32f423zht6, stm32f423zht7, stm32f437aih6, stm32f437igh6, stm32f437igt6, stm32f437iih6, stm32f437iih7, stm32f437iit6, stm32f437iit7, stm32f437vgt6, stm32f437vgt7, stm32f437vit6, stm32f437vit7, stm32f437zgt6, stm32f437zit6, stm32f437zit7, stm32f439aih6, stm32f439bgt6, stm32f439bit6, stm32f439bit7, stm32f439igh6, stm32f439igt6, stm32f439iih6, stm32f439iih7, stm32f439iit6, stm32f439iit7, stm32f439ngh6, stm32f439nih6, stm32f439vgt6, stm32f439vit6, stm32f439zgt6, stm32f439zgt7, stm32f439zgy6, stm32f439zgy7, stm32f439zit6, stm32f439ziy6, stm32f479agh6, stm32f479agy6, stm32f479aih6, stm32f479aiy6, stm32f479bgt6, stm32f479bit6, stm32f479igh6, stm32f479igt6, stm32f479igt7, stm32f479iih6, stm32f479iih7, stm32f479iit6, stm32f479iit7, stm32f479ngh6, stm32f479nih6, stm32f479vgt6, stm32f479vit6, stm32f479zgt6, stm32f479zit6, stm32h725aei6, stm32h725agi3, stm32h725agi6, stm32h725agi7, stm32h725iek6, stm32h725iet6, stm32h725igk3, stm32h725igk6, stm32h725igk7, stm32h725igt3, stm32h725igt6, stm32h725igt7, stm32h725rev6, stm32h725rgv3, stm32h725rgv6, stm32h725rgv7, stm32h725veh6, stm32h725vet6, stm32h725vgh3, stm32h725vgh6, stm32h725vgh7, stm32h725vgt3, stm32h725vgt6, stm32h725vgt7, stm32h725vgy3, stm32h725vgy6, stm32h725vgy7, stm32h725zet6, stm32h725zgt3, stm32h725zgt6, stm32h725zgt7, stm32h730abi6q, stm32h730ibk6q, stm32h730ibt6q, stm32h730vbh6, stm32h730vbt6, stm32h730zbi6, stm32h730zbt6, stm32h735agi6, stm32h735igk3, stm32h735igk6, stm32h735igk7, stm32h735igt3, stm32h735igt6, stm32h735igt7, stm32h735rgv6, stm32h735vgh6, stm32h735vgt6, stm32h735vgy6, stm32h735zgt6, stm32h7b0abi6q, stm32h7b0ibk6q, stm32h7b0ibt6, stm32h7b0rbt6, stm32h7b0vbt6, stm32h7b0zbt6, stm32l010c6t6, stm32l010f4p6, stm32l010k4t6, stm32l010k8t6, stm32l010r8t6, stm32l010rbt6, stm32wb10ccu6, stm32wb15ccu6, stm32wb15ccu6e, stm32wb15ccu7, stm32wb15ccu7e, stm32wb15ccy6, stm32wb15ccy7, stm32wb30ceu6a, stm32wb35ccu6a, stm32wb35ceu6a, stm32wb50cgu6, stm32wb55ccu6, stm32wb55ccu7, stm32wb55ceu6, stm32wb55ceu7, stm32wb55cgu6, stm32wb55cgu7, stm32wb55rcv6, stm32wb55rcv7, stm32wb55rev6, stm32wb55rev7, stm32wb55rgv6, stm32wb55rgv7, stm32wb55vcq6, stm32wb55vcq7, stm32wb55vcy6, stm32wb55vcy7, stm32wb55veq6, stm32wb55veq7, stm32wb55vey6, stm32wb55vey7, stm32wb55vgq6, stm32wb55vgq7, stm32wb55vgy6, stm32wb55vgy7, stm32wb55vyy6, stm32wl54ccu6@m0, stm32wl54ccu6@m4, stm32wl54ccu7@m0, stm32wl54ccu7@m4, stm32wl54jci6@m0, stm32wl54jci6@m4, stm32wl54jci7@m0, stm32wl54jci7@m4, stm32wl55ccu6@m0, stm32wl55ccu6@m4, stm32wl55ccu7@m0, stm32wl55ccu7@m4, stm32wl55jci6@m0, stm32wl55jci6@m4, stm32wl55jci7@m0, stm32wl55jci7@m4, stm32wle4c8u6, stm32wle4cbu6, stm32wle4ccu6, stm32wle4ccu7, stm32wle4j8i6, stm32wle4jbi6, stm32wle4jci6, stm32wle4jci7, stm32wle5c8u6, stm32wle5cbu6, stm32wle5ccu6, stm32wle5ccu7, stm32wle5j8i6, stm32wle5jbi6, stm32wle5jci6, stm32wle5jci7]
+number_cm_missing 219
+number_cm_missing_str 211
+
+Reference Manual files device coverage
+0 set()
+
+number_rm_missing 0
+number_compared 2459
+number_compared_str 2410
+
+Total Devices = 2927 / 3155 (92.8%)
+Missing from Header = 124 (-WL|B = 56)
+Missing from CMSIS-SVD = 294
+Missing from Reference Manuals = 51
+Total compared devices = 2994
+Total compared devices delegated = 2811
+Total compared devices missing = 287
+Unique comparisons = 183
+
+
+Peripherals = 55376 [156, 676]
+Registers = 1188994 [1810, 28364]
+Bits = 5711619 [7813, 122096]
+
+Peripherals by Source: cm=48428, hd=43560, rm=43660
+Peripherals by Source: cm=87.5%, hd=78.7%, rm=78.8%
+
+Registers by Source: cm=850742, hd=877934, rm=947832
+Registers by Source: cm=71.6%, hd=73.8%, rm=79.7%
+
+bits by Source: cm=4199813, hd=2753955, rm=4202676
+bits by Source: cm=73.5%, hd=48.2%, rm=73.6%
+
+Identical Peripherals = 35644/55376 64.4%
+Identical Registers = 574824/1188994 48.3%
+Identical Bits = 1748002/5711619 30.6%
+
+Intersection Peripherals = 42752/55376 77.2%
+Intersection Registers = 891044/1188994 74.9%
+Intersection Bits = 3425903/5711619 60.0%
+
+
+Error Peripherals = 2748/55376 95.0%
+Error Registers = 35406/1188994 97.0%
+Error Bits = 379180/5711619 93.4%
+
+
+Error Overlap Peripherals = 2748/42752 93.6%
+Error Overlap Registers = 35406/891044 96.0%
+Error Overlap Bits = 379180/3425903 88.9%
+
+Majority Voting Performance for Peripherals
+all=1212/2748 = 44.1% -> 96.4
+hd+rm=956 78.9%
+cm+hd=240 19.8%
+cm+rm=16 1.3%
+
+Majority Voting Performance for Registers
+all=14756/35406 = 41.7% -> 97.7
+hd+rm=5916 40.1%
+cm+hd=2288 15.5%
+cm+rm=6552 44.4%
+
+Majority Voting Performance for Bit Fields
+all=239027/379180 = 63.0% -> 95.9
+hd+rm=92823 38.8%
+cm+hd=54625 22.9%
+cm+rm=91579 38.3%
+
+Ordered Peripherals with the most Register conflicts
+STM32F0 0.2%
+100%: DBGMCU
+STM32F1 0.5%
+62%: FSMC
+12%: ADC
+12%: USB
+6%: SDIO
+3%: CEC
+3%: RCC
+STM32F2 1.7%
+21%: ETH
+21%: ETHERNET
+16%: OTG
+16%: USB
+14%: FSMC
+11%: ADC
+STM32F3 1.1%
+41%: ADC
+32%: HRTIM
+20%: EXTI
+4%: CEC
+4%: IC
+STM32F4 5.4%
+14%: DFSDM
+10%: USB
+10%: OTG
+8%: FSMC
+8%: FMPIC
+7%: FMC
+6%: IC
+5%: QSPI
+5%: QUADSPI
+4%: ICFMP
+STM32F7 12.6%
+48%: DFSDM
+12%: FMC
+10%: USB
+9%: OTG
+4%: DSI
+4%: DSIH
+4%: ADC
+3%: MDIOS
+2%: TIM
+1%: RCC
+STM32G0 2.0%
+56%: DMAMUX
+11%: SYSCFG
+9%: ITLINE
+8%: UCPD
+6%: COMP
+5%: DAC
+3%: EXTI
+3%: RCC
+STM32G4 3.8%
+40%: DMAMUX
+24%: HRTIM
+10%: ADC
+7%: UCPD
+6%: FMC
+5%: DAC
+4%: DBGMCU
+3%: FSMC
+0%: TIM
+STM32H7 60.2%
+17%: DFSDM
+16%: RAMECC
+13%: MDMA
+9%: HRTIM
+6%: DMAMUX
+5%: ETH
+5%: ETHERNET
+4%: OTG
+4%: BDMA
+4%: OTFDEC
+STM32L0 0.8%
+61%: FLASH
+26%: COMP
+13%: SYSCFG
+STM32L1 1.2%
+59%: RI
+26%: FSMC
+8%: RTC
+7%: OPAMP
+STM32L4 3.9%
+63%: DFSDM
+18%: RTC
+10%: FMC
+4%: DAC
+4%: OTG
+2%: USB
+STM32L4+ 6.6%
+36%: DFSDM
+30%: DSI
+8%: DMAMUX
+7%: FMC
+4%: FSMC
+3%: OTG
+3%: RTC
+2%: FLASH
+2%: DAC
+2%: USB
+Total peripheral count
+22%: DFSDM
+9%: RAMECC
+8%: MDMA
+7%: DMAMUX
+7%: HRTIM
+5%: OTG
+4%: FMC
+4%: USB
+3%: ADC
+3%: ETH
+3%: ETHERNET
+3%: DSI
+2%: BDMA
+2%: OTFDEC
+2%: USBOTG
+2%: FSMC
+1%: MDIOS
+1%: FLASH
+1%: RTC
+1%: RAMECCD
+1%: DAC
+1%: RI
+1%: DSIH
+1%: TIM
+0%: RCC
+0%: QUADSPI
+0%: UCPD
+0%: SYSCFG
+0%: FMPIC
+0%: EXTI
+
+STM32H7 bit conflicts
+6%: FADD+FDATAL
+2%: DMAADDR+DMASG
+1%: BRR+BRR_4_15+DIV_MANTISSA
+1%: OFFSET1+OFFSET2
+1%: OFFSET1+OFFSET3
+1%: OFFSET1+OFFSET4
+1%: FDATAH+FEC
+1%: AFR0+AFSEL0
+1%: AFR1+AFSEL1
+1%: AFR12+AFSEL12
+1%: AFR13+AFSEL13
+1%: AFR14+AFSEL14
+1%: AFR15+AFSEL15
+1%: AFR2+AFSEL2
+1%: AFR3+AFSEL3
+1%: AFR4+AFSEL4
+1%: AFR5+AFSEL5
+1%: AFR6+AFSEL6
+1%: AFR7+AFSEL7
+1%: AFR8+AFSEL8
+1%: AFR9+AFSEL9
+1%: AFRH+AFSEL11
+1%: AFRL+AFSEL10
+1%: INDAT0+JCHG
+1%: FDATAH+FDATAL
+1%: AWDCH+OFFSET
+1%: EXCH+OFFSET
+1%: IC1F+OC1M
+0%: BRR+BRR_0_3+DIV_FRACTION
+0%: NTD+XFRSIZ

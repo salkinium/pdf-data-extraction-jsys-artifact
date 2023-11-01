@@ -1,0 +1,180 @@
+stm32f038e6y6 ext/cache/stmicro-html/DS10249-v5 ext/cache/stmicro-pdf/DS10249-v5.pdf
+WLCSP25 set() set() [("root['E2']", {'NPOR', 'PB1'})]
+# Figure and Table shows E2=NPOR, CubeMX E2=PB1 may be wrong
+
+
+stm32f048t6y6 ext/cache/stmicro-html/DS10213-v6 ext/cache/stmicro-pdf/DS10213-v6.pdf
+WLCSP36 set() set() [("root['D2']", {'NPOR', 'PB2'}), ("root['F2']", {'NPOR', 'PB1'})]
+# Figure and Table shows D2=PB2 and F2=NPOR, CubeMX D2=PB2 and F2=NPOR may be wrong
+
+stm32f058t8y6 ext/cache/stmicro-html/DS9145-v4 ext/cache/stmicro-pdf/DS9145-v4.pdf
+WLCSP36 set() set() [("root['D2']", {'NPOR', 'PB1'}), ("root['F2']", {'NPOR', 'PB1'})]
+# Figure and Table shows D2=PB1 and F2=NPOR, CubeMX D2=NPOR F2=PB1 may be wrong
+
+
+stm32g431cby3 ext/cache/stmicro-html/DS12589-v6 ext/cache/stmicro-pdf/DS12589-v6.pdf
+WLCSP49 {"root['A4']"} {"root['A43']"} []
+stm32g431cby6 ext/cache/stmicro-html/DS12589-v6 ext/cache/stmicro-pdf/DS12589-v6.pdf
+WLCSP49 {"root['A4']"} {"root['A43']"} []
+# This is a typo in the Table 12 page 59, A4=PB5, the Figure has it right
+
+
+stm32h747ziy6@m4 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+WLCSP156 {"root['A13']"} set() []
+stm32h747ziy6@m7 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+WLCSP156 {"root['A13']"} set() []
+# Figure says in Footnote: The DNC ball must neither be connected to GND or to VDD.
+
+
+stm32h745xgh6@m4 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h745xgh6@m7 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h745xih3@m4 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h745xih3@m7 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h745xih6@m4 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h745xih6@m7 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h747xgh6@m4 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h747xgh6@m7 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h747xih6@m4 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h747xih6@m7 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h755xih3@m4 ext/cache/stmicro-html/DS12919-v1 ext/cache/stmicro-pdf/DS12919-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h755xih3@m7 ext/cache/stmicro-html/DS12919-v1 ext/cache/stmicro-pdf/DS12919-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h755xih6@m4 ext/cache/stmicro-html/DS12919-v1 ext/cache/stmicro-pdf/DS12919-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h755xih6@m7 ext/cache/stmicro-html/DS12919-v1 ext/cache/stmicro-pdf/DS12919-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h757xih6@m4 ext/cache/stmicro-html/DS12931-v1 ext/cache/stmicro-pdf/DS12931-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+stm32h757xih6@m7 ext/cache/stmicro-html/DS12931-v1 ext/cache/stmicro-pdf/DS12931-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+# Table has VDD as position for VDD pin in multiple places, p72--p77,p79--p80
+
+
+stm32h750xbh6 ext/cache/stmicro-html/DS12556-v6 ext/cache/stmicro-pdf/DS12556-v6.pdf
+TFBGA240 {"root['G2']", "root['F1']"} set() []
+# Figure says this is a NC pin
+
+
+stm32h757ziy6@m4 ext/cache/stmicro-html/DS12931-v1 ext/cache/stmicro-pdf/DS12931-v1.pdf
+WLCSP156 {"root['A13']"} set() []
+stm32h757ziy6@m7 ext/cache/stmicro-html/DS12931-v1 ext/cache/stmicro-pdf/DS12931-v1.pdf
+WLCSP156 {"root['A13']"} set() []
+# Figure says in Footnote: The DNC ball must neither be connected to GND nor to VDD.
+
+
+stm32l053c6u6 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", {'PC13', 'PC14OSC32_IN'}), ("root['3']", {'PC14OSC32_IN', 'PC15OSC32_OUT'}), ("root['4']", {'PC15OSC32_OUT', 'PH0OSC_IN'}), ("root['5']", {'PH1OSC_OUT', 'PH0OSC_IN'}), ("root['6']", {'NRST', 'PH1OSC_OUT'})]
+stm32l053c6u7 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", {'PC13', 'PC14OSC32_IN'}), ("root['3']", {'PC14OSC32_IN', 'PC15OSC32_OUT'}), ("root['4']", {'PC15OSC32_OUT', 'PH0OSC_IN'}), ("root['5']", {'PH1OSC_OUT', 'PH0OSC_IN'}), ("root['6']", {'NRST', 'PH1OSC_OUT'})]
+stm32l053c8u3 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", {'PC13', 'PC14OSC32_IN'}), ("root['3']", {'PC14OSC32_IN', 'PC15OSC32_OUT'}), ("root['4']", {'PC15OSC32_OUT', 'PH0OSC_IN'}), ("root['5']", {'PH1OSC_OUT', 'PH0OSC_IN'}), ("root['6']", {'NRST', 'PH1OSC_OUT'})]
+stm32l053c8u6 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", {'PC13', 'PC14OSC32_IN'}), ("root['3']", {'PC14OSC32_IN', 'PC15OSC32_OUT'}), ("root['4']", {'PC15OSC32_OUT', 'PH0OSC_IN'}), ("root['5']", {'PH1OSC_OUT', 'PH0OSC_IN'}), ("root['6']", {'NRST', 'PH1OSC_OUT'})]
+stm32l053c8u7 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", {'PC13', 'PC14OSC32_IN'}), ("root['3']", {'PC14OSC32_IN', 'PC15OSC32_OUT'}), ("root['4']", {'PC15OSC32_OUT', 'PH0OSC_IN'}), ("root['5']", {'PH1OSC_OUT', 'PH0OSC_IN'}), ("root['6']", {'NRST', 'PH1OSC_OUT'})]
+stm32l063c8u6 ext/cache/stmicro-html/DS10090-v8 ext/cache/stmicro-pdf/DS10090-v8.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", {'PC13', 'PC14OSC32_IN'}), ("root['3']", {'PC14OSC32_IN', 'PC15OSC32_OUT'}), ("root['4']", {'PC15OSC32_OUT', 'PH0OSC_IN'}), ("root['5']", {'PH1OSC_OUT', 'PH0OSC_IN'}), ("root['6']", {'NRST', 'PH1OSC_OUT'})]
+# Figure is correct, but there is pin position offset issue in the Table 15, p39/p40.
+
+
+stm32l071v8i6 ext/cache/stmicro-html/DS10690-v7 ext/cache/stmicro-pdf/DS10690-v7.pdf
+UFBGA100 {"root['E3']"} set() []
+stm32l071vbi6 ext/cache/stmicro-html/DS10690-v7 ext/cache/stmicro-pdf/DS10690-v7.pdf
+UFBGA100 {"root['E3']"} set() []
+stm32l071vzi6 ext/cache/stmicro-html/DS10690-v7 ext/cache/stmicro-pdf/DS10690-v7.pdf
+UFBGA100 {"root['E3']"} set() []
+stm32l072v8i6 ext/cache/stmicro-html/DS10689-v5 ext/cache/stmicro-pdf/DS10689-v5.pdf
+UFBGA100 {"root['E3']"} set() []
+stm32l072vbi6 ext/cache/stmicro-html/DS10689-v5 ext/cache/stmicro-pdf/DS10689-v5.pdf
+UFBGA100 {"root['E3']"} set() []
+stm32l072vzi6 ext/cache/stmicro-html/DS10689-v5 ext/cache/stmicro-pdf/DS10689-v5.pdf
+UFBGA100 {"root['E3']"} set() []
+# Figure shows E3=VSS, but table is missing the entry
+
+
+stm32l062c8u6 ext/cache/stmicro-html/DS10183-v11 ext/cache/stmicro-pdf/DS10183-v11.pdf
+UFQFPN48 {"root['46']"} set() []
+# Figure shows 46=PB9, but the whole row 46 is missing from Table p43
+
+
+stm32l151qch6 ext/cache/stmicro-html/DS10262-v8 ext/cache/stmicro-pdf/DS10262-v8.pdf
+UFBGA132 {"root['K1']"} set() []
+stm32l152qch6 ext/cache/stmicro-html/DS10262-v8 ext/cache/stmicro-pdf/DS10262-v8.pdf
+UFBGA132 {"root['K1']"} set() []
+stm32l162qch6 ext/cache/stmicro-html/DS10287-v6 ext/cache/stmicro-pdf/DS10287-v6.pdf
+UFBGA132 {"root['K1']"} set() []
+# Figure shows K1=OPAMP3_VINM, but the table is missing the pin name in the row p39!
+
+
+stm32l412cbt3p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+LQFP48 set() set() [("root['22']", {'VDD', 'PB11'}), ("root['45']", {'PB8', 'PB9'}), ("root['46']", {'VDD', 'PB9'})]
+stm32l412cbt6p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+LQFP48 set() set() [("root['22']", {'VDD', 'PB11'}), ("root['45']", {'PB8', 'PB9'}), ("root['46']", {'VDD', 'PB9'})]
+stm32l412cbu3p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+UFQFPN48 set() set() [("root['22']", {'VDD', 'PB11'}), ("root['45']", {'PB8', 'PB9'}), ("root['46']", {'VDD', 'PB9'})]
+stm32l412cbu6p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+UFQFPN48 set() set() [("root['22']", {'VDD', 'PB11'}), ("root['45']", {'PB8', 'PB9'}), ("root['46']", {'VDD', 'PB9'})]
+# Figure and Table entry for device with external SMPS is completely missing, even though mentioned for other packages
+
+
+stm32l412tby6p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+WLCSP36 {"root['E5']"} set() []
+# Figure: E5=PA3 for SMPS, Table says F5 typo on p57
+
+
+stm32l452rey3p ext/cache/stmicro-html/DS11912-v7 ext/cache/stmicro-pdf/DS11912-v7.pdf
+WLCSP64 set() set() [("root['A2']", {'PA14', 'PA15'}), ("root['B7']", {'VDD12', 'VBAT'}), ("root['C3']", {'PA14', 'PA15'}), ("root['C4']", {'PB5', 'PD2'}), ("root['C5']", {'PB5', 'PB9'}), ("root['C6']", {'VBAT', 'PB9'}), ("root['D5']", {'PC3', 'PC1'}), ("root['D6']", {'PC2', 'PC1'}), ("root['E1']", {'PC6', 'PC7'}), ("root['E2']", {'PC7', 'PC9'}), ("root['E7']", {'PC3', 'PC2'}), ("root['F2']", {'PC6', 'PB13'}), ("root['F4']", {'PB2', 'PB1'}), ("root['G2']", {'PB13', 'PB12'}), ("root['G3']", {'PC9', 'PB12'}), ("root['G4']", {'PB11', 'PB2'}), ("root['G5']", {'PC5', 'PB0'}), ("root['H3']", {'PB11', 'VDD12'}), ("root['H5']", {'PB1', 'PB0'})]
+stm32l452rey6p ext/cache/stmicro-html/DS11912-v7 ext/cache/stmicro-pdf/DS11912-v7.pdf
+WLCSP64 set() set() [("root['A2']", {'PA14', 'PA15'}), ("root['B7']", {'VDD12', 'VBAT'}), ("root['C3']", {'PA14', 'PA15'}), ("root['C4']", {'PB5', 'PD2'}), ("root['C5']", {'PB5', 'PB9'}), ("root['C6']", {'VBAT', 'PB9'}), ("root['D5']", {'PC3', 'PC1'}), ("root['D6']", {'PC2', 'PC1'}), ("root['E1']", {'PC6', 'PC7'}), ("root['E2']", {'PC7', 'PC9'}), ("root['E7']", {'PC3', 'PC2'}), ("root['F2']", {'PC6', 'PB13'}), ("root['F4']", {'PB2', 'PB1'}), ("root['G2']", {'PB13', 'PB12'}), ("root['G3']", {'PC9', 'PB12'}), ("root['G4']", {'PB11', 'PB2'}), ("root['G5']", {'PC5', 'PB0'}), ("root['H3']", {'PB11', 'VDD12'}), ("root['H5']", {'PB1', 'PB0'})]
+# Figure and Table shows correct layout for SMPS devices, but CubeMX maps the wrong package!
+
+
+stm32l476qgi3p ext/cache/stmicro-html/DS10198-v8 ext/cache/stmicro-pdf/DS10198-v8.pdf
+UFBGA132 set() set() [("root['C6']", {'PG14', 'VDD12'}), ("root['L11']", {'PB11', 'VDD12'})]
+stm32l476qgi6p ext/cache/stmicro-html/DS10198-v8 ext/cache/stmicro-pdf/DS10198-v8.pdf
+UFBGA132 set() set() [("root['C6']", {'PG14', 'VDD12'}), ("root['L11']", {'PB11', 'VDD12'})]
+stm32l476qgi7p ext/cache/stmicro-html/DS10198-v8 ext/cache/stmicro-pdf/DS10198-v8.pdf
+UFBGA132 set() set() [("root['C6']", {'PG14', 'VDD12'}), ("root['L11']", {'PB11', 'VDD12'})]
+stm32l4p5qgi6s ext/cache/stmicro-html/DS12903-v3 ext/cache/stmicro-pdf/DS12903-v3.pdf
+UFBGA132 set() set() [("root['C6']", {'PG14', 'VDD12'}), ("root['L11']", {'PB11', 'VDD12'})]
+stm32l4r5qii6p ext/cache/stmicro-html/DS12023-v5 ext/cache/stmicro-pdf/DS12023-v5.pdf
+UFBGA132 set() set() [("root['C6']", {'PG14', 'VDD12'}), ("root['L11']", {'PB11', 'VDD12'})]
+# Figure and Table SMPS says C6=VDD12, L11=VDD12, but CubeMX maps the wrong package
+
+
+stm32l4r5aii6p ext/cache/stmicro-html/DS12023-v5 ext/cache/stmicro-pdf/DS12023-v5.pdf
+UFBGA169 set() set() [("root['C6']", {'VDD', 'PG15'}), ("root['M10']", {'VDD', 'PH11'})]
+# Figure and Table SMPS says C6=VDD12, M10=VDD12, but CubeMX maps the wrong package
+
+
+stm32l552qei6 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+UFBGA132 set() set() [("root['B4']", {'PG15', 'V15SMPS'}), ("root['M10']", {'PG13', 'VLXSMPS'}), ("root['M11']", {'PG11', 'V15SMPS'}), ("root['M9']", {'PG14', 'VDDSMPS'})]
+# Figure and Table non-SMPS says B4=PG15, M10=PG13, M11=PG11, M9=PG14, but CubeMX maps SMPS package
+
+
+stm32l562qei6p ext/cache/stmicro-html/DS12736-v4 ext/cache/stmicro-pdf/DS12736-v4.pdf
+UFBGA132 set() set() [("root['B4']", {'PG15', 'VDD12'}), ("root['M11']", {'VDD12', 'PG11'})]
+# Figure and Table do not show a UFBGA132 layout for P-variant, so it maps to non-variant version
+
+
+stm32l552vet6 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+LQFP100 set() set() [("root['20']", {'VREF-', 'VREF+'}), ("root['22']", {'PA0', 'VDDA'}), ("root['23']", {'PA1', 'PA0'}), ("root['24']", {'PA1', 'PA2'}), ("root['25']", {'PA2', 'PA3'}), ("root['26']", {'VSS', 'PA3'}), ("root['27']", {'VSS', 'VDD'}), ("root['28']", {'VDD', 'PA4'}), ("root['29']", {'PA5', 'PA4'}), ("root['30']", {'PA5', 'PA6'}), ("root['31']", {'PA7', 'PA6'}), ("root['32']", {'PA7', 'PB0'}), ("root['33']", {'PB1', 'PC4'}), ("root['34']", {'PB2', 'PC5'}), ("root['35']", {'PE7', 'PB0'}), ("root['36']", {'PE8', 'PB1'}), ("root['37']", {'PE9', 'PB2'}), ("root['38']", {'PE10', 'PE7'}), ("root['39']", {'PE11', 'PE8'}), ("root['40']", {'PE9', 'PE12'}), ("root['41']", {'PE13', 'PE10'}), ("root['42']", {'PE14', 'PE11'}), ("root['43']", {'PE15', 'PE12'}), ("root['44']", {'PE13', 'PB10'}), ("root['45']", {'PE14', 'PB11'}), ("root['46']", {'PE15', 'VDDSMPS'}), ("root['47']", {'PB10', 'VLXSMPS'}), ("root['48']", {'PB11', 'VSSSMPS'}), ("root['50']", {'VDD', 'V15SMPS'}), ("root['51']", {'VDD', 'PB12'}), ("root['98']", {'VSS', 'PE1'}), ("root['99']", {'VSS', 'V15SMPS'})]
+# Figure and Table show non-SMPS, but CubeMX is mapping the SMPS package
+
+stm32l552zet3 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+LQFP144 set() set() [("root['126']", {'PG12', 'PG11'}), ("root['127']", {'PG13', 'PG12'}), ("root['128']", {'PG13', 'PG14'}), ("root['129']", {'VSS', 'PG14'}), ("root['130']", {'VSS', 'VDDIO2'}), ("root['131']", {'PG15', 'VDDIO2'}), ("root['132']", {'PG15', 'PB3'}), ("root['133']", {'PB4', 'PB3'}), ("root['134']", {'PB4', 'PB5'}), ("root['135']", {'PB5', 'PB6'}), ("root['136']", {'PB7', 'PB6'}), ("root['137']", {'PH3BOOT0', 'PB7'}), ("root['138']", {'PH3BOOT0', 'PB8'}), ("root['139']", {'PB8', 'PB9'}), ("root['140']", {'PE0', 'PB9'}), ("root['141']", {'PE0', 'PE1'}), ("root['142']", {'VSS', 'PE1'}), ("root['143']", {'VSS', 'V15SMPS'}), ("root['31']", {'VREF-', 'VREF+'}), ("root['33']", {'PA0', 'VDDA'}), ("root['34']", {'PA1', 'PA0'}), ("root['35']", {'PA1', 'PA2'}), ("root['36']", {'PA2', 'PA3'}), ("root['37']", {'VSS', 'PA3'}), ("root['38']", {'VSS', 'VDD'}), ("root['39']", {'VDD', 'PA4'}), ("root['40']", {'PA5', 'PA4'}), ("root['41']", {'PA5', 'PA6'}), ("root['42']", {'PA7', 'PA6'}), ("root['43']", {'PA7', 'PB0'}), ("root['44']", {'PB1', 'PC4'}), ("root['45']", {'PB2', 'PC5'}), ("root['46']", {'PF11', 'PB0'}), ("root['47']", {'PF12', 'PB1'}), ("root['48']", {'VSS', 'PB2'}), ("root['49']", {'PF11', 'VDD'}), ("root['50']", {'PF13', 'PF12'}), ("root['51']", {'VSS', 'PF14'}), ("root['52']", {'PF15', 'VDD'}), ("root['53']", {'PF13', 'PG0'}), ("root['54']", {'PF14', 'PG1'}), ("root['55']", {'PF15', 'PE7'}), ("root['56']", {'PE8', 'PG0'}), ("root['57']", {'PE9', 'PG1'}), ("root['58']", {'VSS', 'PE7'}), ("root['59']", {'VDD', 'PE8'}), ("root['60']", {'PE9', 'PE10'}), ("root['61']", {'VSS', 'PE11'}), ("root['62']", {'VDD', 'PE12'}), ("root['63']", {'PE13', 'PE10'}), ("root['64']", {'PE14', 'PE11'}), ("root['65']", {'PE15', 'PE12'}), ("root['66']", {'PE13', 'PB10'}), ("root['67']", {'PE14', 'PB11'}), ("root['68']", {'PE15', 'VDDSMPS'}), ("root['69']", {'PB10', 'VLXSMPS'}), ("root['70']", {'PB11', 'VSSSMPS'}), ("root['72']", {'VDD', 'V15SMPS'}), ("root['73']", {'VDD', 'PB12'})]
+stm32l552zet6 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+LQFP144 set() set() [("root['126']", {'PG12', 'PG11'}), ("root['127']", {'PG13', 'PG12'}), ("root['128']", {'PG13', 'PG14'}), ("root['129']", {'VSS', 'PG14'}), ("root['130']", {'VSS', 'VDDIO2'}), ("root['131']", {'PG15', 'VDDIO2'}), ("root['132']", {'PG15', 'PB3'}), ("root['133']", {'PB4', 'PB3'}), ("root['134']", {'PB4', 'PB5'}), ("root['135']", {'PB5', 'PB6'}), ("root['136']", {'PB7', 'PB6'}), ("root['137']", {'PH3BOOT0', 'PB7'}), ("root['138']", {'PH3BOOT0', 'PB8'}), ("root['139']", {'PB8', 'PB9'}), ("root['140']", {'PE0', 'PB9'}), ("root['141']", {'PE0', 'PE1'}), ("root['142']", {'VSS', 'PE1'}), ("root['143']", {'VSS', 'V15SMPS'}), ("root['31']", {'VREF-', 'VREF+'}), ("root['33']", {'PA0', 'VDDA'}), ("root['34']", {'PA1', 'PA0'}), ("root['35']", {'PA1', 'PA2'}), ("root['36']", {'PA2', 'PA3'}), ("root['37']", {'VSS', 'PA3'}), ("root['38']", {'VSS', 'VDD'}), ("root['39']", {'VDD', 'PA4'}), ("root['40']", {'PA5', 'PA4'}), ("root['41']", {'PA5', 'PA6'}), ("root['42']", {'PA7', 'PA6'}), ("root['43']", {'PA7', 'PB0'}), ("root['44']", {'PB1', 'PC4'}), ("root['45']", {'PB2', 'PC5'}), ("root['46']", {'PF11', 'PB0'}), ("root['47']", {'PF12', 'PB1'}), ("root['48']", {'VSS', 'PB2'}), ("root['49']", {'PF11', 'VDD'}), ("root['50']", {'PF13', 'PF12'}), ("root['51']", {'VSS', 'PF14'}), ("root['52']", {'PF15', 'VDD'}), ("root['53']", {'PF13', 'PG0'}), ("root['54']", {'PF14', 'PG1'}), ("root['55']", {'PF15', 'PE7'}), ("root['56']", {'PE8', 'PG0'}), ("root['57']", {'PE9', 'PG1'}), ("root['58']", {'VSS', 'PE7'}), ("root['59']", {'VDD', 'PE8'}), ("root['60']", {'PE9', 'PE10'}), ("root['61']", {'VSS', 'PE11'}), ("root['62']", {'VDD', 'PE12'}), ("root['63']", {'PE13', 'PE10'}), ("root['64']", {'PE14', 'PE11'}), ("root['65']", {'PE15', 'PE12'}), ("root['66']", {'PE13', 'PB10'}), ("root['67']", {'PE14', 'PB11'}), ("root['68']", {'PE15', 'VDDSMPS'}), ("root['69']", {'PB10', 'VLXSMPS'}), ("root['70']", {'PB11', 'VSSSMPS'}), ("root['72']", {'VDD', 'V15SMPS'}), ("root['73']", {'VDD', 'PB12'})]
+# CubeMX is mapping the SMPS package
+

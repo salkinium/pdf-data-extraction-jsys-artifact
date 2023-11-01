@@ -1,0 +1,171 @@
+
+stm32f038e6y6 ext/cache/stmicro-html/DS10249-v5 ext/cache/stmicro-pdf/DS10249-v5.pdf
+WLCSP25 set() set() [("root['E2']", ['NPOR', 'PB1'])]
+
+stm32f048t6y6 ext/cache/stmicro-html/DS10213-v6 ext/cache/stmicro-pdf/DS10213-v6.pdf
+WLCSP36 set() set() [("root['D2']", ['PB2', 'NPOR']), ("root['F2']", ['NPOR', 'PB1'])]
+
+stm32f058t8y6 ext/cache/stmicro-html/DS9145-v4 ext/cache/stmicro-pdf/DS9145-v4.pdf
+WLCSP36 set() set() [("root['D2']", ['PB1', 'NPOR']), ("root['F2']", ['NPOR', 'PB1'])]
+
+stm32g431cby3 ext/cache/stmicro-html/DS12589-v6 ext/cache/stmicro-pdf/DS12589-v6.pdf
+WLCSP49 {"root['A4']"} {"root['A43']"} []
+
+stm32g431cby6 ext/cache/stmicro-html/DS12589-v6 ext/cache/stmicro-pdf/DS12589-v6.pdf
+WLCSP49 {"root['A4']"} {"root['A43']"} []
+
+stm32h745xgh6@m4 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h745xih3@m4 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h745xih6@m4 ext/cache/stmicro-html/DS12923-v1 ext/cache/stmicro-pdf/DS12923-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h747xgh6@m4 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h747xih6@m4 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h747ziy6@m4 ext/cache/stmicro-html/DS12930-v1 ext/cache/stmicro-pdf/DS12930-v1.pdf
+WLCSP156 {"root['A13']"} set() []
+
+stm32h750xbh6 ext/cache/stmicro-html/DS12556-v6 ext/cache/stmicro-pdf/DS12556-v6.pdf
+TFBGA240 {"root['G2']", "root['F1']"} set() []
+
+stm32h755xih3@m4 ext/cache/stmicro-html/DS12919-v1 ext/cache/stmicro-pdf/DS12919-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h755xih6@m4 ext/cache/stmicro-html/DS12919-v1 ext/cache/stmicro-pdf/DS12919-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h757xih6@m4 ext/cache/stmicro-html/DS12931-v1 ext/cache/stmicro-pdf/DS12931-v1.pdf
+TFBGA240 set() {"root['VDD']"} []
+
+stm32h757ziy6@m4 ext/cache/stmicro-html/DS12931-v1 ext/cache/stmicro-pdf/DS12931-v1.pdf
+WLCSP156 {"root['A13']"} set() []
+
+stm32l053c6u6 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", ['PC14OSC32_IN', 'PC13']), ("root['3']", ['PC15OSC32_OUT', 'PC14OSC32_IN']), ("root['4']", ['PH0OSC_IN', 'PC15OSC32_OUT']), ("root['5']", ['PH1OSC_OUT', 'PH0OSC_IN']), ("root['6']", ['NRST', 'PH1OSC_OUT'])]
+
+stm32l053c6u7 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", ['PC14OSC32_IN', 'PC13']), ("root['3']", ['PC15OSC32_OUT', 'PC14OSC32_IN']), ("root['4']", ['PH0OSC_IN', 'PC15OSC32_OUT']), ("root['5']", ['PH1OSC_OUT', 'PH0OSC_IN']), ("root['6']", ['NRST', 'PH1OSC_OUT'])]
+
+stm32l053c8u3 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", ['PC14OSC32_IN', 'PC13']), ("root['3']", ['PC15OSC32_OUT', 'PC14OSC32_IN']), ("root['4']", ['PH0OSC_IN', 'PC15OSC32_OUT']), ("root['5']", ['PH1OSC_OUT', 'PH0OSC_IN']), ("root['6']", ['NRST', 'PH1OSC_OUT'])]
+
+stm32l053c8u6 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", ['PC14OSC32_IN', 'PC13']), ("root['3']", ['PC15OSC32_OUT', 'PC14OSC32_IN']), ("root['4']", ['PH0OSC_IN', 'PC15OSC32_OUT']), ("root['5']", ['PH1OSC_OUT', 'PH0OSC_IN']), ("root['6']", ['NRST', 'PH1OSC_OUT'])]
+
+stm32l053c8u7 ext/cache/stmicro-html/DS10152-v9 ext/cache/stmicro-pdf/DS10152-v9.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", ['PC14OSC32_IN', 'PC13']), ("root['3']", ['PC15OSC32_OUT', 'PC14OSC32_IN']), ("root['4']", ['PH0OSC_IN', 'PC15OSC32_OUT']), ("root['5']", ['PH1OSC_OUT', 'PH0OSC_IN']), ("root['6']", ['NRST', 'PH1OSC_OUT'])]
+
+stm32l062c8u6 ext/cache/stmicro-html/DS10183-v11 ext/cache/stmicro-pdf/DS10183-v11.pdf
+UFQFPN48 {"root['46']"} set() []
+
+stm32l063c8u6 ext/cache/stmicro-html/DS10090-v8 ext/cache/stmicro-pdf/DS10090-v8.pdf
+UFQFPN48 {"root['7']"} set() [("root['2']", ['PC14OSC32_IN', 'PC13']), ("root['3']", ['PC15OSC32_OUT', 'PC14OSC32_IN']), ("root['4']", ['PH0OSC_IN', 'PC15OSC32_OUT']), ("root['5']", ['PH1OSC_OUT', 'PH0OSC_IN']), ("root['6']", ['NRST', 'PH1OSC_OUT'])]
+
+stm32l071v8i6 ext/cache/stmicro-html/DS10690-v7 ext/cache/stmicro-pdf/DS10690-v7.pdf
+UFBGA100 {"root['E3']"} set() []
+
+stm32l071vbi6 ext/cache/stmicro-html/DS10690-v7 ext/cache/stmicro-pdf/DS10690-v7.pdf
+UFBGA100 {"root['E3']"} set() []
+
+stm32l071vzi6 ext/cache/stmicro-html/DS10690-v7 ext/cache/stmicro-pdf/DS10690-v7.pdf
+UFBGA100 {"root['E3']"} set() []
+
+stm32l072v8i6 ext/cache/stmicro-html/DS10689-v5 ext/cache/stmicro-pdf/DS10689-v5.pdf
+UFBGA100 {"root['E3']"} set() []
+
+stm32l072vbi6 ext/cache/stmicro-html/DS10689-v5 ext/cache/stmicro-pdf/DS10689-v5.pdf
+UFBGA100 {"root['E3']"} set() []
+
+stm32l072vzi6 ext/cache/stmicro-html/DS10689-v5 ext/cache/stmicro-pdf/DS10689-v5.pdf
+UFBGA100 {"root['E3']"} set() []
+
+stm32l151qch6 ext/cache/stmicro-html/DS10262-v8 ext/cache/stmicro-pdf/DS10262-v8.pdf
+UFBGA132 {"root['K1']"} set() []
+
+stm32l152qch6 ext/cache/stmicro-html/DS10262-v8 ext/cache/stmicro-pdf/DS10262-v8.pdf
+UFBGA132 {"root['K1']"} set() []
+
+stm32l162qch6 ext/cache/stmicro-html/DS10287-v6 ext/cache/stmicro-pdf/DS10287-v6.pdf
+UFBGA132 {"root['K1']"} set() []
+
+stm32l412cbt3p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+LQFP48 set() set() [("root['22']", ['PB11', 'VDD12']), ("root['45']", ['PB8', 'PB9']), ("root['46']", ['PB9', 'VDD12'])]
+
+stm32l412cbt6p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+LQFP48 set() set() [("root['22']", ['PB11', 'VDD12']), ("root['45']", ['PB8', 'PB9']), ("root['46']", ['PB9', 'VDD12'])]
+
+stm32l412cbu3p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+UFQFPN48 set() set() [("root['22']", ['PB11', 'VDD12']), ("root['45']", ['PB8', 'PB9']), ("root['46']", ['PB9', 'VDD12'])]
+
+stm32l412cbu6p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+UFQFPN48 set() set() [("root['22']", ['PB11', 'VDD12']), ("root['45']", ['PB8', 'PB9']), ("root['46']", ['PB9', 'VDD12'])]
+
+stm32l412tby6p ext/cache/stmicro-html/DS12469-v8 ext/cache/stmicro-pdf/DS12469-v8.pdf
+WLCSP36 {"root['E5']"} set() []
+
+stm32l452rey3p ext/cache/stmicro-html/DS11912-v7 ext/cache/stmicro-pdf/DS11912-v7.pdf
+WLCSP64 set() set() [("root['A2']", ['PA14', 'PA15']), ("root['B7']", ['VDD12', 'VBAT']), ("root['C3']", ['PA15', 'PA14']), ("root['C4']", ['PB5', 'PD2']), ("root['C5']", ['PB9', 'PB5']), ("root['C6']", ['VBAT', 'PB9']), ("root['D5']", ['PC3', 'PC1']), ("root['D6']", ['PC1', 'PC2']), ("root['E1']", ['PC6', 'PC7']), ("root['E2']", ['PC7', 'PC9']), ("root['E7']", ['PC2', 'PC3']), ("root['F2']", ['PB13', 'PC6']), ("root['F4']", ['PB2', 'PB1']), ("root['G2']", ['PB12', 'PB13']), ("root['G3']", ['PC9', 'PB12']), ("root['G4']", ['PB11', 'PB2']), ("root['G5']", ['PB0', 'PC5']), ("root['H3']", ['VDD12', 'PB11']), ("root['H5']", ['PB1', 'PB0'])]
+
+stm32l452rey6p ext/cache/stmicro-html/DS11912-v7 ext/cache/stmicro-pdf/DS11912-v7.pdf
+WLCSP64 set() set() [("root['A2']", ['PA14', 'PA15']), ("root['B7']", ['VDD12', 'VBAT']), ("root['C3']", ['PA15', 'PA14']), ("root['C4']", ['PB5', 'PD2']), ("root['C5']", ['PB9', 'PB5']), ("root['C6']", ['VBAT', 'PB9']), ("root['D5']", ['PC3', 'PC1']), ("root['D6']", ['PC1', 'PC2']), ("root['E1']", ['PC6', 'PC7']), ("root['E2']", ['PC7', 'PC9']), ("root['E7']", ['PC2', 'PC3']), ("root['F2']", ['PB13', 'PC6']), ("root['F4']", ['PB2', 'PB1']), ("root['G2']", ['PB12', 'PB13']), ("root['G3']", ['PC9', 'PB12']), ("root['G4']", ['PB11', 'PB2']), ("root['G5']", ['PB0', 'PC5']), ("root['H3']", ['VDD12', 'PB11']), ("root['H5']", ['PB1', 'PB0'])]
+
+stm32l476qgi3p ext/cache/stmicro-html/DS10198-v8 ext/cache/stmicro-pdf/DS10198-v8.pdf
+UFBGA132 set() set() [("root['C6']", ['VDD12', 'PG14']), ("root['L11']", ['VDD12', 'PB11'])]
+
+stm32l476qgi6p ext/cache/stmicro-html/DS10198-v8 ext/cache/stmicro-pdf/DS10198-v8.pdf
+UFBGA132 set() set() [("root['C6']", ['VDD12', 'PG14']), ("root['L11']", ['VDD12', 'PB11'])]
+
+stm32l476qgi7p ext/cache/stmicro-html/DS10198-v8 ext/cache/stmicro-pdf/DS10198-v8.pdf
+UFBGA132 set() set() [("root['C6']", ['VDD12', 'PG14']), ("root['L11']", ['VDD12', 'PB11'])]
+
+stm32l4p5qgi6s ext/cache/stmicro-html/DS12903-v3 ext/cache/stmicro-pdf/DS12903-v3.pdf
+UFBGA132 set() set() [("root['C6']", ['PG14', 'VDD12']), ("root['L11']", ['PB11', 'VDD12'])]
+
+stm32l4r5aii6p ext/cache/stmicro-html/DS12023-v5 ext/cache/stmicro-pdf/DS12023-v5.pdf
+UFBGA169 set() set() [("root['C6']", ['VDD12', 'PG15']), ("root['M10']", ['VDD12', 'PH11'])]
+
+stm32l4r5qii6p ext/cache/stmicro-html/DS12023-v5 ext/cache/stmicro-pdf/DS12023-v5.pdf
+UFBGA132 set() set() [("root['C6']", ['VDD12', 'PG14']), ("root['L11']", ['VDD12', 'PB11'])]
+
+stm32l552qei6 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+UFBGA132 set() set() [("root['B4']", ['PG15', 'V15SMPS']), ("root['M10']", ['PG13', 'VLXSMPS']), ("root['M11']", ['PG11', 'V15SMPS']), ("root['M9']", ['PG14', 'VDDSMPS'])]
+
+stm32l552qei6p ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+UFBGA132 set() set() [("root['B4']", ['PG15', 'VDD12']), ("root['M11']", ['PG11', 'VDD12'])]
+
+stm32l552vet6 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+LQFP100 set() set() [("root['20']", ['VREF-', 'VREF+']), ("root['22']", ['VDDA', 'PA0']), ("root['23']", ['PA0', 'PA1']), ("root['24']", ['PA1', 'PA2']), ("root['25']", ['PA2', 'PA3']), ("root['26']", ['PA3', 'VSS']), ("root['27']", ['VSS', 'VDD']), ("root['28']", ['VDD', 'PA4']), ("root['29']", ['PA4', 'PA5']), ("root['30']", ['PA5', 'PA6']), ("root['31']", ['PA6', 'PA7']), ("root['32']", ['PA7', 'PB0']), ("root['33']", ['PC4', 'PB1']), ("root['34']", ['PC5', 'PB2']), ("root['35']", ['PB0', 'PE7']), ("root['36']", ['PB1', 'PE8']), ("root['37']", ['PB2', 'PE9']), ("root['38']", ['PE7', 'PE10']), ("root['39']", ['PE8', 'PE11']), ("root['40']", ['PE9', 'PE12']), ("root['41']", ['PE10', 'PE13']), ("root['42']", ['PE11', 'PE14']), ("root['43']", ['PE12', 'PE15']), ("root['44']", ['PE13', 'PB10']), ("root['45']", ['PE14', 'PB11']), ("root['46']", ['PE15', 'VDDSMPS']), ("root['47']", ['PB10', 'VLXSMPS']), ("root['48']", ['PB11', 'VSSSMPS']), ("root['50']", ['VDD', 'V15SMPS']), ("root['51']", ['PB12', 'VDD']), ("root['98']", ['PE1', 'VSS']), ("root['99']", ['VSS', 'V15SMPS'])]
+
+stm32l552zet3 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+LQFP144 set() set() [("root['126']", ['PG11', 'PG12']), ("root['127']", ['PG12', 'PG13']), ("root['128']", ['PG13', 'PG14']), ("root['129']", ['PG14', 'VSS']), ("root['130']", ['VSS', 'VDDIO2']), ("root['131']", ['VDDIO2', 'PG15']), ("root['132']", ['PG15', 'PB3']), ("root['133']", ['PB3', 'PB4']), ("root['134']", ['PB4', 'PB5']), ("root['135']", ['PB5', 'PB6']), ("root['136']", ['PB6', 'PB7']), ("root['137']", ['PB7', 'PH3BOOT0']), ("root['138']", ['PH3BOOT0', 'PB8']), ("root['139']", ['PB8', 'PB9']), ("root['140']", ['PB9', 'PE0']), ("root['141']", ['PE0', 'PE1']), ("root['142']", ['PE1', 'VSS']), ("root['143']", ['VSS', 'V15SMPS']), ("root['31']", ['VREF-', 'VREF+']), ("root['33']", ['VDDA', 'PA0']), ("root['34']", ['PA0', 'PA1']), ("root['35']", ['PA1', 'PA2']), ("root['36']", ['PA2', 'PA3']), ("root['37']", ['PA3', 'VSS']), ("root['38']", ['VSS', 'VDD']), ("root['39']", ['VDD', 'PA4']), ("root['40']", ['PA4', 'PA5']), ("root['41']", ['PA5', 'PA6']), ("root['42']", ['PA6', 'PA7']), ("root['43']", ['PA7', 'PB0']), ("root['44']", ['PC4', 'PB1']), ("root['45']", ['PC5', 'PB2']), ("root['46']", ['PB0', 'PF11']), ("root['47']", ['PB1', 'PF12']), ("root['48']", ['PB2', 'VSS']), ("root['49']", ['PF11', 'VDD']), ("root['50']", ['PF12', 'PF13']), ("root['51']", ['VSS', 'PF14']), ("root['52']", ['VDD', 'PF15']), ("root['53']", ['PF13', 'PG0']), ("root['54']", ['PF14', 'PG1']), ("root['55']", ['PF15', 'PE7']), ("root['56']", ['PG0', 'PE8']), ("root['57']", ['PG1', 'PE9']), ("root['58']", ['PE7', 'VSS']), ("root['59']", ['PE8', 'VDD']), ("root['60']", ['PE9', 'PE10']), ("root['61']", ['VSS', 'PE11']), ("root['62']", ['VDD', 'PE12']), ("root['63']", ['PE10', 'PE13']), ("root['64']", ['PE11', 'PE14']), ("root['65']", ['PE12', 'PE15']), ("root['66']", ['PE13', 'PB10']), ("root['67']", ['PE14', 'PB11']), ("root['68']", ['PE15', 'VDDSMPS']), ("root['69']", ['PB10', 'VLXSMPS']), ("root['70']", ['PB11', 'VSSSMPS']), ("root['72']", ['VDD', 'V15SMPS']), ("root['73']", ['PB12', 'VDD'])]
+
+stm32l552zet6 ext/cache/stmicro-html/DS12737-v6 ext/cache/stmicro-pdf/DS12737-v6.pdf
+LQFP144 set() set() [("root['126']", ['PG11', 'PG12']), ("root['127']", ['PG12', 'PG13']), ("root['128']", ['PG13', 'PG14']), ("root['129']", ['PG14', 'VSS']), ("root['130']", ['VSS', 'VDDIO2']), ("root['131']", ['VDDIO2', 'PG15']), ("root['132']", ['PG15', 'PB3']), ("root['133']", ['PB3', 'PB4']), ("root['134']", ['PB4', 'PB5']), ("root['135']", ['PB5', 'PB6']), ("root['136']", ['PB6', 'PB7']), ("root['137']", ['PB7', 'PH3BOOT0']), ("root['138']", ['PH3BOOT0', 'PB8']), ("root['139']", ['PB8', 'PB9']), ("root['140']", ['PB9', 'PE0']), ("root['141']", ['PE0', 'PE1']), ("root['142']", ['PE1', 'VSS']), ("root['143']", ['VSS', 'V15SMPS']), ("root['31']", ['VREF-', 'VREF+']), ("root['33']", ['VDDA', 'PA0']), ("root['34']", ['PA0', 'PA1']), ("root['35']", ['PA1', 'PA2']), ("root['36']", ['PA2', 'PA3']), ("root['37']", ['PA3', 'VSS']), ("root['38']", ['VSS', 'VDD']), ("root['39']", ['VDD', 'PA4']), ("root['40']", ['PA4', 'PA5']), ("root['41']", ['PA5', 'PA6']), ("root['42']", ['PA6', 'PA7']), ("root['43']", ['PA7', 'PB0']), ("root['44']", ['PC4', 'PB1']), ("root['45']", ['PC5', 'PB2']), ("root['46']", ['PB0', 'PF11']), ("root['47']", ['PB1', 'PF12']), ("root['48']", ['PB2', 'VSS']), ("root['49']", ['PF11', 'VDD']), ("root['50']", ['PF12', 'PF13']), ("root['51']", ['VSS', 'PF14']), ("root['52']", ['VDD', 'PF15']), ("root['53']", ['PF13', 'PG0']), ("root['54']", ['PF14', 'PG1']), ("root['55']", ['PF15', 'PE7']), ("root['56']", ['PG0', 'PE8']), ("root['57']", ['PG1', 'PE9']), ("root['58']", ['PE7', 'VSS']), ("root['59']", ['PE8', 'VDD']), ("root['60']", ['PE9', 'PE10']), ("root['61']", ['VSS', 'PE11']), ("root['62']", ['VDD', 'PE12']), ("root['63']", ['PE10', 'PE13']), ("root['64']", ['PE11', 'PE14']), ("root['65']", ['PE12', 'PE15']), ("root['66']", ['PE13', 'PB10']), ("root['67']", ['PE14', 'PB11']), ("root['68']", ['PE15', 'VDDSMPS']), ("root['69']", ['PB10', 'VLXSMPS']), ("root['70']", ['PB11', 'VSSSMPS']), ("root['72']", ['VDD', 'V15SMPS']), ("root['73']", ['PB12', 'VDD'])]
+
+stm32l562qei6p ext/cache/stmicro-html/DS12736-v4 ext/cache/stmicro-pdf/DS12736-v4.pdf
+UFBGA132 set() set() [("root['B4']", ['PG15', 'VDD12']), ("root['M11']", ['PG11', 'VDD12'])]
+
+stm32wb15ccu6e ext/cache/stmicro-html/DS13258-v7 ext/cache/stmicro-pdf/DS13258-v7.pdf
+UFQFPN48 set() set() [("root['32']", ['VDD', 'VFBSMPS'])]
+
+stm32wb15ccu7e ext/cache/stmicro-html/DS13258-v7 ext/cache/stmicro-pdf/DS13258-v7.pdf
+UFQFPN48 set() set() [("root['32']", ['VDD', 'VFBSMPS'])]
+
+total_devices=2819 total_pins=247756
+correct_devices=2757 correct_pins=247466
+validated_devices=2789 validated_pins=247693
+wrong_devices=53 wrong_pins=290
+missing_devices=9
+
+correct_devices_pct=97.801%
+correct_pins_pct=99.883%
+
+validated_devices_pct=98.936%
+validated_pins_pct=99.975%

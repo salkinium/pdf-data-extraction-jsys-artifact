@@ -1,0 +1,14 @@
+pypdfium2==1.11.0
+anytree
+owlready2
+dashtable
+numpy
+lxml
+pillow
+BeautifulSoup4
+patch_ng
+deepdiff
+CppHeaderParser
+pygount
+matplotlib
+jinja2

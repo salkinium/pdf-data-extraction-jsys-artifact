@@ -1,0 +1,12 @@
+ext/cache
+/*.png
+/*.html
+/id*
+log/
+issues/
+debug_*.pdf
+
+
+# Venv and pycache files
+.venv
+__pycache__

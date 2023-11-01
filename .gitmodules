@@ -1,0 +1,12 @@
+[submodule "ext/modm-devices"]
+	path = ext/modm-devices
+	url = https://github.com/modm-io/modm-devices.git
+[submodule "ext/cmsis/stm32-header"]
+	path = ext/cmsis/stm32-header
+	url = https://github.com/modm-io/cmsis-header-stm32.git
+[submodule "ext/cmsis/svd"]
+	path = ext/cmsis/svd
+	url = https://github.com/posborne/cmsis-svd.git
+[submodule "ext/cmsis/header"]
+	path = ext/cmsis/header
+	url = https://github.com/modm-ext/cmsis-5-partial.git

@@ -1,0 +1,3684 @@
+{
+  "bits": {
+    "cm": {
+      "stm32f030c6t6": 5884,
+      "stm32f030c8t6": 5884,
+      "stm32f030cct6": 5884,
+      "stm32f031c4t6": 5419,
+      "stm32f038c6t6": 6836,
+      "stm32f042c4t6": 8725,
+      "stm32f048c6u6": 6836,
+      "stm32f051c4t6": 6836,
+      "stm32f058c8u6": 6836,
+      "stm32f070c6t6": 6836,
+      "stm32f070cbt6": 6836,
+      "stm32f071c8t6": 6836,
+      "stm32f072c8t6": 10244,
+      "stm32f078cbt6": 6836,
+      "stm32f091cbt6": 10841,
+      "stm32f098cct6": 6836,
+      "stm32f100c4t6": 8801,
+      "stm32f100rct6": 8801,
+      "stm32f101c4t6": 8666,
+      "stm32f101c8t6": 8666,
+      "stm32f101rct6": 8666,
+      "stm32f101rft6": 8666,
+      "stm32f102c4t6": 5577,
+      "stm32f102c8t6": 5577,
+      "stm32f103c4t6": 12251,
+      "stm32f103c8t6": 12251,
+      "stm32f103rct6": 12251,
+      "stm32f103rft6": 12251,
+      "stm32f105r8t6": 15041,
+      "stm32f107rbt6": 16244,
+      "stm32f205rbt6": 25814,
+      "stm32f207ich6": 25814,
+      "stm32f215ret6": 28171,
+      "stm32f217ieh6": 28171,
+      "stm32f301c6t6": 9988,
+      "stm32f302c6t6": 18902,
+      "stm32f302cbt6": 18902,
+      "stm32f302rdt6": 18902,
+      "stm32f303c6t6": 19072,
+      "stm32f303cbt6": 19072,
+      "stm32f303rdt6": 19072,
+      "stm32f318c8t6": 18921,
+      "stm32f328c8t6": 18921,
+      "stm32f334c4t6": 17490,
+      "stm32f358cct6": 18921,
+      "stm32f373c8t6": 15678,
+      "stm32f378cct6": 18921,
+      "stm32f398vet6": 18921,
+      "stm32f401cbu3": 13524,
+      "stm32f401cdu6": 13524,
+      "stm32f405oey6": 31766,
+      "stm32f407ieh6": 31766,
+      "stm32f410c8t3": 9799,
+      "stm32f410r8i3": 9799,
+      "stm32f410t8y6": 9799,
+      "stm32f411ccu6": 13643,
+      "stm32f412ceu6": 23360,
+      "stm32f412ret6": 23360,
+      "stm32f412veh3": 23360,
+      "stm32f412zej3": 23360,
+      "stm32f413cgu3": 29252,
+      "stm32f427agh6": 32395,
+      "stm32f429agh6": 32490,
+      "stm32f446mcy6": 26504,
+      "stm32f469aeh6": 33595,
+      "stm32f722ick6": 28699,
+      "stm32f723ick6": 28699,
+      "stm32f730i8k6": 28699,
+      "stm32f732iek6": 28699,
+      "stm32f733iek6": 28699,
+      "stm32f745iek6": 37188,
+      "stm32f746bet6": 37172,
+      "stm32f750n8h6": 37172,
+      "stm32f756bgt6": 37172,
+      "stm32f765bgt6": 60013,
+      "stm32f767bgt6": 60012,
+      "stm32f768aiy6": 60012,
+      "stm32f769agy6": 59807,
+      "stm32f777bit6": 60012,
+      "stm32f778aiy6": 60012,
+      "stm32f779aiy6": 59807,
+      "stm32g030c6t6": 7058,
+      "stm32g031c4t6": 7112,
+      "stm32g041c6t6": 7890,
+      "stm32g050c6t6": 7428,
+      "stm32g051c6t6": 7737,
+      "stm32g061c6t6": 8314,
+      "stm32g070cbt6": 9837,
+      "stm32g071c6t6": 10328,
+      "stm32g081cbt6": 11139,
+      "stm32g0b0cet6": 9241,
+      "stm32g0b1cbt6": 12647,
+      "stm32g0c1cct6": 13425,
+      "stm32g431c6t6": 19899,
+      "stm32g441cbt3": 19899,
+      "stm32g471cct6": 21928,
+      "stm32g473cbt3": 24887,
+      "stm32g474cbt3": 28836,
+      "stm32g483cet3": 24885,
+      "stm32g484cet3": 29565,
+      "stm32g491cct3": 19949,
+      "stm32g4a1cet6": 20678,
+      "stm32h723veh6": 61623,
+      "stm32h733vgh6": 61623,
+      "stm32h742agi6": 58435,
+      "stm32h743agi6": 58435,
+      "stm32h745bgt6@m4": 63159,
+      "stm32h745bgt6@m7": 63159,
+      "stm32h747agi6@m4": 59845,
+      "stm32h747agi6@m7": 60020,
+      "stm32h750ibk6": 58715,
+      "stm32h753aii6": 61623,
+      "stm32h755bit3@m4": 63159,
+      "stm32h755bit3@m7": 63159,
+      "stm32h757aii6@m4": 59845,
+      "stm32h757aii6@m7": 60020,
+      "stm32h7a3agi6q": 59290,
+      "stm32h7b3aii6q": 64814,
+      "stm32l011d3p6": 7938,
+      "stm32l021d4p3": 7938,
+      "stm32l031c4t6": 7938,
+      "stm32l041c4t6": 7938,
+      "stm32l051c6t6": 7938,
+      "stm32l052c6t6": 8949,
+      "stm32l053c6t6": 9244,
+      "stm32l062c8u6": 8949,
+      "stm32l063c8t6": 9244,
+      "stm32l071c8t6": 7938,
+      "stm32l072cbt6": 8949,
+      "stm32l073cbt6": 9244,
+      "stm32l081cbt6": 7938,
+      "stm32l082czu3": 8949,
+      "stm32l083cbt6": 9244,
+      "stm32l100c6u6": 7132,
+      "stm32l100rbt6a": 7132,
+      "stm32l151c6t6": 10665,
+      "stm32l151c6t6a": 8979,
+      "stm32l151cbt6a": 8979,
+      "stm32l151cct6": 10665,
+      "stm32l151qch6": 10575,
+      "stm32l151qeh6": 10490,
+      "stm32l151r6h6": 10575,
+      "stm32l151rct6": 10575,
+      "stm32l151rct6a": 8979,
+      "stm32l151vdt6x": 10575,
+      "stm32l152c6t6": 10665,
+      "stm32l152c6t6a": 8979,
+      "stm32l152cbt6a": 8979,
+      "stm32l152cct3": 10665,
+      "stm32l152qch6": 10575,
+      "stm32l152qeh6": 10490,
+      "stm32l152r6h6": 10575,
+      "stm32l152rct3": 10575,
+      "stm32l152rct6a": 8979,
+      "stm32l152vdt6x": 10575,
+      "stm32l162qch6": 10575,
+      "stm32l162rct6": 10575,
+      "stm32l162ret6": 10575,
+      "stm32l412c8t6": 19525,
+      "stm32l422cbt6": 19525,
+      "stm32l431cbt6": 19525,
+      "stm32l432kbu6": 19525,
+      "stm32l433cbt6": 15952,
+      "stm32l442kcu6": 19525,
+      "stm32l443ccf6": 15952,
+      "stm32l451ccu3": 19525,
+      "stm32l452ccu6": 19525,
+      "stm32l462cet3": 19525,
+      "stm32l471qei3": 19525,
+      "stm32l475rct3": 22794,
+      "stm32l476jey6": 30664,
+      "stm32l485jcy6": 22794,
+      "stm32l486jgy6": 30664,
+      "stm32l496aei6": 30664,
+      "stm32l4a6agi6": 30664,
+      "stm32l4p5aei6": 22794,
+      "stm32l4q5agi6": 22794,
+      "stm32l4r5agi6": 65228,
+      "stm32l4r7aii6": 65228,
+      "stm32l4r9agi6": 65228,
+      "stm32l4s5aii3": 65228,
+      "stm32l4s7aii6": 65228,
+      "stm32l4s9aii6": 65228
+    },
+    "hd": {
+      "stm32f030c6t6": 4595,
+      "stm32f030c8t6": 5762,
+      "stm32f030cct6": 6810,
+      "stm32f031c4t6": 4807,
+      "stm32f038c6t6": 4800,
+      "stm32f042c4t6": 7572,
+      "stm32f048c6u6": 7565,
+      "stm32f051c4t6": 6652,
+      "stm32f058c8u6": 6645,
+      "stm32f070c6t6": 4766,
+      "stm32f070cbt6": 6477,
+      "stm32f071c8t6": 8056,
+      "stm32f072c8t6": 9785,
+      "stm32f078cbt6": 9778,
+      "stm32f091cbt6": 11280,
+      "stm32f098cct6": 11273,
+      "stm32f100c4t6": 6553,
+      "stm32f100rct6": 10086,
+      "stm32f101c4t6": 3637,
+      "stm32f101c8t6": 4411,
+      "stm32f101rct6": 7932,
+      "stm32f101rft6": 9848,
+      "stm32f102c4t6": 3831,
+      "stm32f102c8t6": 4442,
+      "stm32f103c4t6": 6194,
+      "stm32f103c8t6": 6968,
+      "stm32f103rct6": 11590,
+      "stm32f103rft6": 13509,
+      "stm32f105r8t6": 13768,
+      "stm32f107rbt6": 15010,
+      "stm32f205rbt6": 14067,
+      "stm32f207ich6": 15469,
+      "stm32f215ret6": 14120,
+      "stm32f217ieh6": 15522,
+      "stm32f301c6t6": 7986,
+      "stm32f302c6t6": 9657,
+      "stm32f302cbt6": 12362,
+      "stm32f302rdt6": 12976,
+      "stm32f303c6t6": 10556,
+      "stm32f303cbt6": 14577,
+      "stm32f303rdt6": 15636,
+      "stm32f318c8t6": 7995,
+      "stm32f328c8t6": 10549,
+      "stm32f334c4t6": 11179,
+      "stm32f358cct6": 14560,
+      "stm32f373c8t6": 12898,
+      "stm32f378cct6": 12882,
+      "stm32f398vet6": 15619,
+      "stm32f401cbu3": 7852,
+      "stm32f401cdu6": 7852,
+      "stm32f405oey6": 16153,
+      "stm32f407ieh6": 17557,
+      "stm32f410c8t3": 5363,
+      "stm32f410r8i3": 5364,
+      "stm32f410t8y6": 5028,
+      "stm32f411ccu6": 7981,
+      "stm32f412ceu6": 13937,
+      "stm32f412ret6": 14553,
+      "stm32f412veh3": 14764,
+      "stm32f412zej3": 15186,
+      "stm32f413cgu3": 19931,
+      "stm32f427agh6": 19400,
+      "stm32f429agh6": 19597,
+      "stm32f446mcy6": 17257,
+      "stm32f469aeh6": 20537,
+      "stm32f722ick6": 19019,
+      "stm32f723ick6": 19041,
+      "stm32f730i8k6": 19066,
+      "stm32f732iek6": 19044,
+      "stm32f733iek6": 19066,
+      "stm32f745iek6": 23073,
+      "stm32f746bet6": 23268,
+      "stm32f750n8h6": 23329,
+      "stm32f756bgt6": 23329,
+      "stm32f765bgt6": 26613,
+      "stm32f767bgt6": 27043,
+      "stm32f768aiy6": 27043,
+      "stm32f769agy6": 27827,
+      "stm32f777bit6": 27104,
+      "stm32f778aiy6": 27104,
+      "stm32f779aiy6": 27888,
+      "stm32g030c6t6": 6748,
+      "stm32g031c4t6": 7790,
+      "stm32g041c6t6": 7834,
+      "stm32g050c6t6": 8342,
+      "stm32g051c6t6": 9706,
+      "stm32g061c6t6": 9750,
+      "stm32g070cbt6": 8800,
+      "stm32g071c6t6": 10701,
+      "stm32g081cbt6": 10745,
+      "stm32g0b0cet6": 11181,
+      "stm32g0b1cbt6": 14425,
+      "stm32g0c1cct6": 14469,
+      "stm32g431c6t6": 15737,
+      "stm32g441cbt3": 15766,
+      "stm32g471cct6": 18760,
+      "stm32g473cbt3": 22206,
+      "stm32g474cbt3": 23009,
+      "stm32g483cet3": 22235,
+      "stm32g484cet3": 23038,
+      "stm32g491cct3": 18356,
+      "stm32g4a1cet6": 18385,
+      "stm32h723veh6": 41024,
+      "stm32h733vgh6": 41347,
+      "stm32h742agi6": 39038,
+      "stm32h743agi6": 39449,
+      "stm32h745bgt6@m4": 40208,
+      "stm32h745bgt6@m7": 40208,
+      "stm32h747agi6@m4": 40996,
+      "stm32h747agi6@m7": 40996,
+      "stm32h750ibk6": 39513,
+      "stm32h753aii6": 39514,
+      "stm32h755bit3@m4": 40281,
+      "stm32h755bit3@m7": 40281,
+      "stm32h757aii6@m4": 41069,
+      "stm32h757aii6@m7": 41069,
+      "stm32h7a3agi6q": 39041,
+      "stm32h7b3aii6q": 39364,
+      "stm32l011d3p6": 3519,
+      "stm32l021d4p3": 3538,
+      "stm32l031c4t6": 4160,
+      "stm32l041c4t6": 4179,
+      "stm32l051c6t6": 4888,
+      "stm32l052c6t6": 5347,
+      "stm32l053c6t6": 5909,
+      "stm32l062c8u6": 5366,
+      "stm32l063c8t6": 5928,
+      "stm32l071c8t6": 6165,
+      "stm32l072cbt6": 6749,
+      "stm32l073cbt6": 7313,
+      "stm32l081cbt6": 6184,
+      "stm32l082czu3": 6768,
+      "stm32l083cbt6": 7332,
+      "stm32l100c6u6": 6874,
+      "stm32l100rbt6a": 8232,
+      "stm32l151c6t6": 6461,
+      "stm32l151c6t6a": 6461,
+      "stm32l151cbt6a": 8161,
+      "stm32l151cct6": 8161,
+      "stm32l151qch6": 9513,
+      "stm32l151qeh6": 8725,
+      "stm32l151r6h6": 6461,
+      "stm32l151rct6": 8161,
+      "stm32l151rct6a": 9513,
+      "stm32l151vdt6x": 8725,
+      "stm32l152c6t6": 7022,
+      "stm32l152c6t6a": 7022,
+      "stm32l152cbt6a": 8722,
+      "stm32l152cct3": 8722,
+      "stm32l152qch6": 10074,
+      "stm32l152qeh6": 9286,
+      "stm32l152r6h6": 7022,
+      "stm32l152rct3": 8722,
+      "stm32l152rct6a": 10074,
+      "stm32l152vdt6x": 9286,
+      "stm32l162qch6": 10093,
+      "stm32l162rct6": 8741,
+      "stm32l162ret6": 9305,
+      "stm32l412c8t6": 10096,
+      "stm32l422cbt6": 10121,
+      "stm32l431cbt6": 13149,
+      "stm32l432kbu6": 11554,
+      "stm32l433cbt6": 13720,
+      "stm32l442kcu6": 11579,
+      "stm32l443ccf6": 13745,
+      "stm32l451ccu3": 13950,
+      "stm32l452ccu6": 13962,
+      "stm32l462cet3": 13987,
+      "stm32l471qei3": 19483,
+      "stm32l475rct3": 20225,
+      "stm32l476jey6": 20786,
+      "stm32l485jcy6": 20250,
+      "stm32l486jgy6": 20809,
+      "stm32l496aei6": 23551,
+      "stm32l4a6agi6": 23608,
+      "stm32l4p5aei6": 22649,
+      "stm32l4q5agi6": 22700,
+      "stm32l4r5agi6": 21069,
+      "stm32l4r7aii6": 21427,
+      "stm32l4r9agi6": 22205,
+      "stm32l4s5aii3": 21130,
+      "stm32l4s7aii6": 21488,
+      "stm32l4s9aii6": 22266
+    },
+    "rm": {
+      "stm32f030c6t6": 6161,
+      "stm32f030c8t6": 6161,
+      "stm32f030cct6": 5666,
+      "stm32f031c4t6": 14114,
+      "stm32f038c6t6": 14114,
+      "stm32f042c4t6": 14114,
+      "stm32f048c6u6": 14114,
+      "stm32f051c4t6": 14114,
+      "stm32f058c8u6": 14114,
+      "stm32f070c6t6": 6161,
+      "stm32f070cbt6": 6161,
+      "stm32f071c8t6": 13432,
+      "stm32f072c8t6": 13432,
+      "stm32f078cbt6": 13432,
+      "stm32f091cbt6": 13022,
+      "stm32f098cct6": 13022,
+      "stm32f100c4t6": 4413,
+      "stm32f100rct6": 5956,
+      "stm32f101c4t6": 16863,
+      "stm32f101c8t6": 16863,
+      "stm32f101rct6": 16863,
+      "stm32f101rft6": 16863,
+      "stm32f102c4t6": 16863,
+      "stm32f102c8t6": 16863,
+      "stm32f103c4t6": 16863,
+      "stm32f103c8t6": 16863,
+      "stm32f103rct6": 16863,
+      "stm32f103rft6": 16863,
+      "stm32f105r8t6": 16879,
+      "stm32f107rbt6": 16879,
+      "stm32f205rbt6": 26400,
+      "stm32f207ich6": 26400,
+      "stm32f215ret6": 26400,
+      "stm32f217ieh6": 26400,
+      "stm32f301c6t6": 7195,
+      "stm32f302c6t6": 12815,
+      "stm32f302cbt6": 12574,
+      "stm32f302rdt6": 15642,
+      "stm32f303c6t6": 10713,
+      "stm32f303cbt6": 14901,
+      "stm32f303rdt6": 20514,
+      "stm32f318c8t6": 7195,
+      "stm32f328c8t6": 10713,
+      "stm32f334c4t6": 11354,
+      "stm32f358cct6": 14901,
+      "stm32f373c8t6": 14081,
+      "stm32f378cct6": 14081,
+      "stm32f398vet6": 20514,
+      "stm32f401cbu3": 10876,
+      "stm32f401cdu6": 10876,
+      "stm32f405oey6": 23120,
+      "stm32f407ieh6": 23120,
+      "stm32f410c8t3": 7225,
+      "stm32f410r8i3": 7225,
+      "stm32f410t8y6": 7225,
+      "stm32f411ccu6": 10945,
+      "stm32f412ceu6": 19150,
+      "stm32f412ret6": 19150,
+      "stm32f412veh3": 19150,
+      "stm32f412zej3": 19150,
+      "stm32f413cgu3": 27033,
+      "stm32f427agh6": 23231,
+      "stm32f429agh6": 23231,
+      "stm32f446mcy6": 22796,
+      "stm32f469aeh6": 32148,
+      "stm32f722ick6": 24066,
+      "stm32f723ick6": 24066,
+      "stm32f730i8k6": 24066,
+      "stm32f732iek6": 24066,
+      "stm32f733iek6": 24066,
+      "stm32f745iek6": 29773,
+      "stm32f746bet6": 29773,
+      "stm32f750n8h6": 29773,
+      "stm32f756bgt6": 29773,
+      "stm32f765bgt6": 36282,
+      "stm32f767bgt6": 36282,
+      "stm32f768aiy6": 36282,
+      "stm32f769agy6": 36282,
+      "stm32f777bit6": 36282,
+      "stm32f778aiy6": 36282,
+      "stm32f779aiy6": 36282,
+      "stm32g030c6t6": 10208,
+      "stm32g031c4t6": 14004,
+      "stm32g041c6t6": 14004,
+      "stm32g050c6t6": 10208,
+      "stm32g051c6t6": 14004,
+      "stm32g061c6t6": 14004,
+      "stm32g070cbt6": 10208,
+      "stm32g071c6t6": 14004,
+      "stm32g081cbt6": 14004,
+      "stm32g0b0cet6": 10208,
+      "stm32g0b1cbt6": 14004,
+      "stm32g0c1cct6": 14004,
+      "stm32g431c6t6": 27078,
+      "stm32g441cbt3": 27078,
+      "stm32g471cct6": 27078,
+      "stm32g473cbt3": 27078,
+      "stm32g474cbt3": 27078,
+      "stm32g483cet3": 27078,
+      "stm32g484cet3": 27078,
+      "stm32g491cct3": 27078,
+      "stm32g4a1cet6": 27078,
+      "stm32h723veh6": 49283,
+      "stm32h733vgh6": 49283,
+      "stm32h742agi6": 80329,
+      "stm32h743agi6": 80329,
+      "stm32h745bgt6@m4": 49881,
+      "stm32h745bgt6@m7": 49881,
+      "stm32h747agi6@m4": 49881,
+      "stm32h747agi6@m7": 49881,
+      "stm32h750ibk6": 80329,
+      "stm32h753aii6": 80329,
+      "stm32h755bit3@m4": 49881,
+      "stm32h755bit3@m7": 49881,
+      "stm32h757aii6@m4": 49881,
+      "stm32h757aii6@m7": 49881,
+      "stm32h7a3agi6q": 90190,
+      "stm32h7b3aii6q": 90190,
+      "stm32l011d3p6": 6811,
+      "stm32l021d4p3": 6811,
+      "stm32l031c4t6": 6811,
+      "stm32l041c4t6": 6811,
+      "stm32l051c6t6": 6811,
+      "stm32l052c6t6": 7621,
+      "stm32l053c6t6": 7672,
+      "stm32l062c8u6": 7621,
+      "stm32l063c8t6": 7672,
+      "stm32l071c8t6": 6811,
+      "stm32l072cbt6": 7621,
+      "stm32l073cbt6": 7672,
+      "stm32l081cbt6": 6811,
+      "stm32l082czu3": 7621,
+      "stm32l083cbt6": 7672,
+      "stm32l100c6u6": 11203,
+      "stm32l100rbt6a": 11203,
+      "stm32l151c6t6": 11203,
+      "stm32l151c6t6a": 11203,
+      "stm32l151cbt6a": 11203,
+      "stm32l151cct6": 11203,
+      "stm32l151qch6": 11203,
+      "stm32l151qeh6": 11203,
+      "stm32l151r6h6": 11203,
+      "stm32l151rct6": 11203,
+      "stm32l151rct6a": 11203,
+      "stm32l151vdt6x": 11203,
+      "stm32l152c6t6": 11203,
+      "stm32l152c6t6a": 11203,
+      "stm32l152cbt6a": 11203,
+      "stm32l152cct3": 11203,
+      "stm32l152qch6": 11203,
+      "stm32l152qeh6": 11203,
+      "stm32l152r6h6": 11203,
+      "stm32l152rct3": 11203,
+      "stm32l152rct6a": 11203,
+      "stm32l152vdt6x": 11203,
+      "stm32l162qch6": 11203,
+      "stm32l162rct6": 11203,
+      "stm32l162ret6": 11203,
+      "stm32l412c8t6": 15530,
+      "stm32l422cbt6": 15530,
+      "stm32l431cbt6": 15530,
+      "stm32l432kbu6": 15530,
+      "stm32l433cbt6": 15530,
+      "stm32l442kcu6": 15530,
+      "stm32l443ccf6": 15530,
+      "stm32l451ccu3": 15530,
+      "stm32l452ccu6": 15530,
+      "stm32l462cet3": 15530,
+      "stm32l471qei3": 21293,
+      "stm32l475rct3": 21293,
+      "stm32l476jey6": 21293,
+      "stm32l485jcy6": 21293,
+      "stm32l486jgy6": 21293,
+      "stm32l496aei6": 44303,
+      "stm32l4a6agi6": 44303,
+      "stm32l4p5aei6": 46983,
+      "stm32l4q5agi6": 46983,
+      "stm32l4r5agi6": 81268,
+      "stm32l4r7aii6": 81268,
+      "stm32l4r9agi6": 81268,
+      "stm32l4s5aii3": 81268,
+      "stm32l4s7aii6": 81268,
+      "stm32l4s9aii6": 81268
+    }
+  },
+  "collisions": {
+    "bits": {
+      "stm32f030c6t6": 659,
+      "stm32f030c8t6": 708,
+      "stm32f030cct6": 789,
+      "stm32f031c4t6": 635,
+      "stm32f038c6t6": 783,
+      "stm32f042c4t6": 712,
+      "stm32f048c6u6": 826,
+      "stm32f051c4t6": 863,
+      "stm32f058c8u6": 863,
+      "stm32f070c6t6": 661,
+      "stm32f070cbt6": 754,
+      "stm32f071c8t6": 918,
+      "stm32f072c8t6": 930,
+      "stm32f078cbt6": 918,
+      "stm32f091cbt6": 998,
+      "stm32f098cct6": 990,
+      "stm32f100c4t6": 275,
+      "stm32f100rct6": 421,
+      "stm32f101c4t6": 176,
+      "stm32f101c8t6": 234,
+      "stm32f101rct6": 462,
+      "stm32f101rft6": 510,
+      "stm32f102c4t6": 189,
+      "stm32f102c8t6": 248,
+      "stm32f103c4t6": 272,
+      "stm32f103c8t6": 330,
+      "stm32f103rct6": 585,
+      "stm32f103rft6": 633,
+      "stm32f105r8t6": 364,
+      "stm32f107rbt6": 464,
+      "stm32f205rbt6": 1127,
+      "stm32f207ich6": 1191,
+      "stm32f215ret6": 1389,
+      "stm32f217ieh6": 1453,
+      "stm32f301c6t6": 762,
+      "stm32f302c6t6": 761,
+      "stm32f302cbt6": 1004,
+      "stm32f302rdt6": 1140,
+      "stm32f303c6t6": 786,
+      "stm32f303cbt6": 1216,
+      "stm32f303rdt6": 1383,
+      "stm32f318c8t6": 960,
+      "stm32f328c8t6": 895,
+      "stm32f334c4t6": 935,
+      "stm32f358cct6": 1326,
+      "stm32f373c8t6": 846,
+      "stm32f378cct6": 899,
+      "stm32f398vet6": 1486,
+      "stm32f401cbu3": 1275,
+      "stm32f401cdu6": 1275,
+      "stm32f405oey6": 1903,
+      "stm32f407ieh6": 1968,
+      "stm32f410c8t3": 847,
+      "stm32f410r8i3": 847,
+      "stm32f410t8y6": 779,
+      "stm32f411ccu6": 1308,
+      "stm32f412ceu6": 1407,
+      "stm32f412ret6": 1535,
+      "stm32f412veh3": 1663,
+      "stm32f412zej3": 1919,
+      "stm32f413cgu3": 2335,
+      "stm32f427agh6": 2340,
+      "stm32f429agh6": 2350,
+      "stm32f446mcy6": 1969,
+      "stm32f469aeh6": 3168,
+      "stm32f722ick6": 2082,
+      "stm32f723ick6": 2082,
+      "stm32f730i8k6": 2082,
+      "stm32f732iek6": 2082,
+      "stm32f733iek6": 2082,
+      "stm32f745iek6": 2574,
+      "stm32f746bet6": 2542,
+      "stm32f750n8h6": 2576,
+      "stm32f756bgt6": 2544,
+      "stm32f765bgt6": 2930,
+      "stm32f767bgt6": 2926,
+      "stm32f768aiy6": 2926,
+      "stm32f769agy6": 3875,
+      "stm32f777bit6": 2928,
+      "stm32f778aiy6": 2928,
+      "stm32f779aiy6": 3877,
+      "stm32g030c6t6": 987,
+      "stm32g031c4t6": 1189,
+      "stm32g041c6t6": 1317,
+      "stm32g050c6t6": 1058,
+      "stm32g051c6t6": 1027,
+      "stm32g061c6t6": 1028,
+      "stm32g070cbt6": 1015,
+      "stm32g071c6t6": 1279,
+      "stm32g081cbt6": 1434,
+      "stm32g0b0cet6": 1115,
+      "stm32g0b1cbt6": 1329,
+      "stm32g0c1cct6": 1329,
+      "stm32g431c6t6": 1990,
+      "stm32g441cbt3": 1990,
+      "stm32g471cct6": 2174,
+      "stm32g473cbt3": 2394,
+      "stm32g474cbt3": 2724,
+      "stm32g483cet3": 2396,
+      "stm32g484cet3": 2852,
+      "stm32g491cct3": 1961,
+      "stm32g4a1cet6": 2089,
+      "stm32h723veh6": 6415,
+      "stm32h733vgh6": 6424,
+      "stm32h742agi6": 6274,
+      "stm32h743agi6": 6275,
+      "stm32h745bgt6@m4": 6900,
+      "stm32h745bgt6@m7": 6900,
+      "stm32h747agi6@m4": 5731,
+      "stm32h747agi6@m7": 5731,
+      "stm32h750ibk6": 7510,
+      "stm32h753aii6": 8134,
+      "stm32h755bit3@m4": 6907,
+      "stm32h755bit3@m7": 6907,
+      "stm32h757aii6@m4": 5738,
+      "stm32h757aii6@m7": 5738,
+      "stm32h7a3agi6q": 5781,
+      "stm32h7b3aii6q": 9659,
+      "stm32l011d3p6": 388,
+      "stm32l021d4p3": 389,
+      "stm32l031c4t6": 401,
+      "stm32l041c4t6": 402,
+      "stm32l051c6t6": 435,
+      "stm32l052c6t6": 603,
+      "stm32l053c6t6": 859,
+      "stm32l062c8u6": 604,
+      "stm32l063c8t6": 860,
+      "stm32l071c8t6": 469,
+      "stm32l072cbt6": 638,
+      "stm32l073cbt6": 894,
+      "stm32l081cbt6": 470,
+      "stm32l082czu3": 639,
+      "stm32l083cbt6": 895,
+      "stm32l100c6u6": 1215,
+      "stm32l100rbt6a": 1252,
+      "stm32l151c6t6": 895,
+      "stm32l151c6t6a": 814,
+      "stm32l151cbt6a": 937,
+      "stm32l151cct6": 985,
+      "stm32l151qch6": 1465,
+      "stm32l151qeh6": 1058,
+      "stm32l151r6h6": 1102,
+      "stm32l151rct6": 1176,
+      "stm32l151rct6a": 1242,
+      "stm32l151vdt6x": 1346,
+      "stm32l152c6t6": 1152,
+      "stm32l152c6t6a": 1071,
+      "stm32l152cbt6a": 1194,
+      "stm32l152cct3": 1242,
+      "stm32l152qch6": 1722,
+      "stm32l152qeh6": 1315,
+      "stm32l152r6h6": 1359,
+      "stm32l152rct3": 1433,
+      "stm32l152rct6a": 1499,
+      "stm32l152vdt6x": 1603,
+      "stm32l162qch6": 1723,
+      "stm32l162rct6": 1434,
+      "stm32l162ret6": 1604,
+      "stm32l412c8t6": 2154,
+      "stm32l422cbt6": 2154,
+      "stm32l431cbt6": 2188,
+      "stm32l432kbu6": 2065,
+      "stm32l433cbt6": 2401,
+      "stm32l442kcu6": 2065,
+      "stm32l443ccf6": 2401,
+      "stm32l451ccu3": 2322,
+      "stm32l452ccu6": 2322,
+      "stm32l462cet3": 2322,
+      "stm32l471qei3": 2494,
+      "stm32l475rct3": 2970,
+      "stm32l476jey6": 3210,
+      "stm32l485jcy6": 2970,
+      "stm32l486jgy6": 3210,
+      "stm32l496aei6": 5281,
+      "stm32l4a6agi6": 5281,
+      "stm32l4p5aei6": 3283,
+      "stm32l4q5agi6": 3283,
+      "stm32l4r5agi6": 5407,
+      "stm32l4r7aii6": 5407,
+      "stm32l4r9agi6": 5519,
+      "stm32l4s5aii3": 5407,
+      "stm32l4s7aii6": 5407,
+      "stm32l4s9aii6": 5519
+    },
+    "peripherals": {
+      "stm32f030c6t6": 4,
+      "stm32f030c8t6": 4,
+      "stm32f030cct6": 4,
+      "stm32f031c4t6": 4,
+      "stm32f038c6t6": 4,
+      "stm32f042c4t6": 4,
+      "stm32f048c6u6": 4,
+      "stm32f051c4t6": 4,
+      "stm32f058c8u6": 4,
+      "stm32f070c6t6": 4,
+      "stm32f070cbt6": 4,
+      "stm32f071c8t6": 4,
+      "stm32f072c8t6": 4,
+      "stm32f078cbt6": 4,
+      "stm32f091cbt6": 4,
+      "stm32f098cct6": 4,
+      "stm32f100c4t6": 0,
+      "stm32f100rct6": 0,
+      "stm32f101c4t6": 0,
+      "stm32f101c8t6": 0,
+      "stm32f101rct6": 0,
+      "stm32f101rft6": 0,
+      "stm32f102c4t6": 0,
+      "stm32f102c8t6": 0,
+      "stm32f103c4t6": 0,
+      "stm32f103c8t6": 0,
+      "stm32f103rct6": 0,
+      "stm32f103rft6": 0,
+      "stm32f105r8t6": 4,
+      "stm32f107rbt6": 4,
+      "stm32f205rbt6": 20,
+      "stm32f207ich6": 20,
+      "stm32f215ret6": 20,
+      "stm32f217ieh6": 20,
+      "stm32f301c6t6": 8,
+      "stm32f302c6t6": 8,
+      "stm32f302cbt6": 12,
+      "stm32f302rdt6": 12,
+      "stm32f303c6t6": 12,
+      "stm32f303cbt6": 16,
+      "stm32f303rdt6": 16,
+      "stm32f318c8t6": 8,
+      "stm32f328c8t6": 8,
+      "stm32f334c4t6": 36,
+      "stm32f358cct6": 12,
+      "stm32f373c8t6": 8,
+      "stm32f378cct6": 12,
+      "stm32f398vet6": 12,
+      "stm32f401cbu3": 8,
+      "stm32f401cdu6": 8,
+      "stm32f405oey6": 16,
+      "stm32f407ieh6": 16,
+      "stm32f410c8t3": 4,
+      "stm32f410r8i3": 4,
+      "stm32f410t8y6": 4,
+      "stm32f411ccu6": 4,
+      "stm32f412ceu6": 12,
+      "stm32f412ret6": 12,
+      "stm32f412veh3": 12,
+      "stm32f412zej3": 12,
+      "stm32f413cgu3": 12,
+      "stm32f427agh6": 20,
+      "stm32f429agh6": 20,
+      "stm32f446mcy6": 24,
+      "stm32f469aeh6": 20,
+      "stm32f722ick6": 20,
+      "stm32f723ick6": 24,
+      "stm32f730i8k6": 24,
+      "stm32f732iek6": 20,
+      "stm32f733iek6": 24,
+      "stm32f745iek6": 24,
+      "stm32f746bet6": 24,
+      "stm32f750n8h6": 24,
+      "stm32f756bgt6": 24,
+      "stm32f765bgt6": 24,
+      "stm32f767bgt6": 28,
+      "stm32f768aiy6": 28,
+      "stm32f769agy6": 24,
+      "stm32f777bit6": 28,
+      "stm32f778aiy6": 28,
+      "stm32f779aiy6": 24,
+      "stm32g030c6t6": 0,
+      "stm32g031c4t6": 0,
+      "stm32g041c6t6": 0,
+      "stm32g050c6t6": 0,
+      "stm32g051c6t6": 0,
+      "stm32g061c6t6": 0,
+      "stm32g070cbt6": 0,
+      "stm32g071c6t6": 0,
+      "stm32g081cbt6": 0,
+      "stm32g0b0cet6": 0,
+      "stm32g0b1cbt6": 0,
+      "stm32g0c1cct6": 0,
+      "stm32g431c6t6": 12,
+      "stm32g441cbt3": 12,
+      "stm32g471cct6": 12,
+      "stm32g473cbt3": 20,
+      "stm32g474cbt3": 44,
+      "stm32g483cet3": 16,
+      "stm32g484cet3": 44,
+      "stm32g491cct3": 12,
+      "stm32g4a1cet6": 12,
+      "stm32h723veh6": 60,
+      "stm32h733vgh6": 60,
+      "stm32h742agi6": 64,
+      "stm32h743agi6": 64,
+      "stm32h745bgt6@m4": 64,
+      "stm32h745bgt6@m7": 64,
+      "stm32h747agi6@m4": 64,
+      "stm32h747agi6@m7": 64,
+      "stm32h750ibk6": 64,
+      "stm32h753aii6": 64,
+      "stm32h755bit3@m4": 64,
+      "stm32h755bit3@m7": 64,
+      "stm32h757aii6@m4": 64,
+      "stm32h757aii6@m7": 64,
+      "stm32h7a3agi6q": 36,
+      "stm32h7b3aii6q": 36,
+      "stm32l011d3p6": 16,
+      "stm32l021d4p3": 16,
+      "stm32l031c4t6": 16,
+      "stm32l041c4t6": 16,
+      "stm32l051c6t6": 16,
+      "stm32l052c6t6": 16,
+      "stm32l053c6t6": 16,
+      "stm32l062c8u6": 16,
+      "stm32l063c8t6": 16,
+      "stm32l071c8t6": 16,
+      "stm32l072cbt6": 16,
+      "stm32l073cbt6": 16,
+      "stm32l081cbt6": 16,
+      "stm32l082czu3": 16,
+      "stm32l083cbt6": 16,
+      "stm32l100c6u6": 8,
+      "stm32l100rbt6a": 8,
+      "stm32l151c6t6": 8,
+      "stm32l151c6t6a": 8,
+      "stm32l151cbt6a": 8,
+      "stm32l151cct6": 8,
+      "stm32l151qch6": 16,
+      "stm32l151qeh6": 16,
+      "stm32l151r6h6": 16,
+      "stm32l151rct6": 16,
+      "stm32l151rct6a": 16,
+      "stm32l151vdt6x": 16,
+      "stm32l152c6t6": 8,
+      "stm32l152c6t6a": 8,
+      "stm32l152cbt6a": 8,
+      "stm32l152cct3": 8,
+      "stm32l152qch6": 16,
+      "stm32l152qeh6": 16,
+      "stm32l152r6h6": 16,
+      "stm32l152rct3": 16,
+      "stm32l152rct6a": 16,
+      "stm32l152vdt6x": 16,
+      "stm32l162qch6": 16,
+      "stm32l162rct6": 16,
+      "stm32l162ret6": 16,
+      "stm32l412c8t6": 4,
+      "stm32l422cbt6": 4,
+      "stm32l431cbt6": 4,
+      "stm32l432kbu6": 4,
+      "stm32l433cbt6": 0,
+      "stm32l442kcu6": 4,
+      "stm32l443ccf6": 0,
+      "stm32l451ccu3": 4,
+      "stm32l452ccu6": 4,
+      "stm32l462cet3": 4,
+      "stm32l471qei3": 0,
+      "stm32l475rct3": 4,
+      "stm32l476jey6": 0,
+      "stm32l485jcy6": 4,
+      "stm32l486jgy6": 0,
+      "stm32l496aei6": 0,
+      "stm32l4a6agi6": 0,
+      "stm32l4p5aei6": 12,
+      "stm32l4q5agi6": 12,
+      "stm32l4r5agi6": 8,
+      "stm32l4r7aii6": 8,
+      "stm32l4r9agi6": 8,
+      "stm32l4s5aii3": 8,
+      "stm32l4s7aii6": 8,
+      "stm32l4s9aii6": 8
+    },
+    "registers": {
+      "stm32f030c6t6": 8,
+      "stm32f030c8t6": 8,
+      "stm32f030cct6": 8,
+      "stm32f031c4t6": 8,
+      "stm32f038c6t6": 8,
+      "stm32f042c4t6": 8,
+      "stm32f048c6u6": 8,
+      "stm32f051c4t6": 8,
+      "stm32f058c8u6": 8,
+      "stm32f070c6t6": 8,
+      "stm32f070cbt6": 8,
+      "stm32f071c8t6": 8,
+      "stm32f072c8t6": 8,
+      "stm32f078cbt6": 8,
+      "stm32f091cbt6": 8,
+      "stm32f098cct6": 8,
+      "stm32f100c4t6": 8,
+      "stm32f100rct6": 24,
+      "stm32f101c4t6": 4,
+      "stm32f101c8t6": 4,
+      "stm32f101rct6": 20,
+      "stm32f101rft6": 20,
+      "stm32f102c4t6": 4,
+      "stm32f102c8t6": 4,
+      "stm32f103c4t6": 4,
+      "stm32f103c8t6": 4,
+      "stm32f103rct6": 20,
+      "stm32f103rft6": 20,
+      "stm32f105r8t6": 12,
+      "stm32f107rbt6": 12,
+      "stm32f205rbt6": 108,
+      "stm32f207ich6": 108,
+      "stm32f215ret6": 108,
+      "stm32f217ieh6": 108,
+      "stm32f301c6t6": 8,
+      "stm32f302c6t6": 16,
+      "stm32f302cbt6": 16,
+      "stm32f302rdt6": 16,
+      "stm32f303c6t6": 16,
+      "stm32f303cbt6": 16,
+      "stm32f303rdt6": 16,
+      "stm32f318c8t6": 56,
+      "stm32f328c8t6": 48,
+      "stm32f334c4t6": 104,
+      "stm32f358cct6": 48,
+      "stm32f373c8t6": 4,
+      "stm32f378cct6": 24,
+      "stm32f398vet6": 48,
+      "stm32f401cbu3": 8,
+      "stm32f401cdu6": 8,
+      "stm32f405oey6": 60,
+      "stm32f407ieh6": 60,
+      "stm32f410c8t3": 28,
+      "stm32f410r8i3": 28,
+      "stm32f410t8y6": 28,
+      "stm32f411ccu6": 8,
+      "stm32f412ceu6": 108,
+      "stm32f412ret6": 124,
+      "stm32f412veh3": 124,
+      "stm32f412zej3": 124,
+      "stm32f413cgu3": 240,
+      "stm32f427agh6": 76,
+      "stm32f429agh6": 76,
+      "stm32f446mcy6": 104,
+      "stm32f469aeh6": 196,
+      "stm32f722ick6": 52,
+      "stm32f723ick6": 56,
+      "stm32f730i8k6": 56,
+      "stm32f732iek6": 52,
+      "stm32f733iek6": 56,
+      "stm32f745iek6": 104,
+      "stm32f746bet6": 100,
+      "stm32f750n8h6": 104,
+      "stm32f756bgt6": 100,
+      "stm32f765bgt6": 412,
+      "stm32f767bgt6": 412,
+      "stm32f768aiy6": 412,
+      "stm32f769agy6": 488,
+      "stm32f777bit6": 412,
+      "stm32f778aiy6": 412,
+      "stm32f779aiy6": 488,
+      "stm32g030c6t6": 36,
+      "stm32g031c4t6": 36,
+      "stm32g041c6t6": 36,
+      "stm32g050c6t6": 36,
+      "stm32g051c6t6": 40,
+      "stm32g061c6t6": 40,
+      "stm32g070cbt6": 36,
+      "stm32g071c6t6": 48,
+      "stm32g081cbt6": 48,
+      "stm32g0b0cet6": 40,
+      "stm32g0b1cbt6": 100,
+      "stm32g0c1cct6": 100,
+      "stm32g431c6t6": 84,
+      "stm32g441cbt3": 84,
+      "stm32g471cct6": 92,
+      "stm32g473cbt3": 108,
+      "stm32g474cbt3": 188,
+      "stm32g483cet3": 108,
+      "stm32g484cet3": 188,
+      "stm32g491cct3": 84,
+      "stm32g4a1cet6": 84,
+      "stm32h723veh6": 1128,
+      "stm32h733vgh6": 1416,
+      "stm32h742agi6": 1584,
+      "stm32h743agi6": 1584,
+      "stm32h745bgt6@m4": 1596,
+      "stm32h745bgt6@m7": 1596,
+      "stm32h747agi6@m4": 1224,
+      "stm32h747agi6@m7": 1224,
+      "stm32h750ibk6": 1308,
+      "stm32h753aii6": 1584,
+      "stm32h755bit3@m4": 1596,
+      "stm32h755bit3@m7": 1596,
+      "stm32h757aii6@m4": 1224,
+      "stm32h757aii6@m7": 1224,
+      "stm32h7a3agi6q": 1136,
+      "stm32h7b3aii6q": 1424,
+      "stm32l011d3p6": 16,
+      "stm32l021d4p3": 16,
+      "stm32l031c4t6": 16,
+      "stm32l041c4t6": 16,
+      "stm32l051c6t6": 16,
+      "stm32l052c6t6": 8,
+      "stm32l053c6t6": 8,
+      "stm32l062c8u6": 8,
+      "stm32l063c8t6": 8,
+      "stm32l071c8t6": 20,
+      "stm32l072cbt6": 12,
+      "stm32l073cbt6": 12,
+      "stm32l081cbt6": 20,
+      "stm32l082czu3": 12,
+      "stm32l083cbt6": 12,
+      "stm32l100c6u6": 32,
+      "stm32l100rbt6a": 32,
+      "stm32l151c6t6": 0,
+      "stm32l151c6t6a": 0,
+      "stm32l151cbt6a": 1,
+      "stm32l151cct6": 1,
+      "stm32l151qch6": 50,
+      "stm32l151qeh6": 1,
+      "stm32l151r6h6": 32,
+      "stm32l151rct6": 33,
+      "stm32l151rct6a": 18,
+      "stm32l151vdt6x": 33,
+      "stm32l152c6t6": 0,
+      "stm32l152c6t6a": 0,
+      "stm32l152cbt6a": 1,
+      "stm32l152cct3": 1,
+      "stm32l152qch6": 50,
+      "stm32l152qeh6": 1,
+      "stm32l152r6h6": 32,
+      "stm32l152rct3": 33,
+      "stm32l152rct6a": 18,
+      "stm32l152vdt6x": 33,
+      "stm32l162qch6": 50,
+      "stm32l162rct6": 33,
+      "stm32l162ret6": 33,
+      "stm32l412c8t6": 40,
+      "stm32l422cbt6": 40,
+      "stm32l431cbt6": 40,
+      "stm32l432kbu6": 40,
+      "stm32l433cbt6": 40,
+      "stm32l442kcu6": 40,
+      "stm32l443ccf6": 40,
+      "stm32l451ccu3": 80,
+      "stm32l452ccu6": 80,
+      "stm32l462cet3": 80,
+      "stm32l471qei3": 124,
+      "stm32l475rct3": 144,
+      "stm32l476jey6": 148,
+      "stm32l485jcy6": 144,
+      "stm32l486jgy6": 148,
+      "stm32l496aei6": 148,
+      "stm32l4a6agi6": 148,
+      "stm32l4p5aei6": 276,
+      "stm32l4q5agi6": 276,
+      "stm32l4r5agi6": 380,
+      "stm32l4r7aii6": 380,
+      "stm32l4r9agi6": 380,
+      "stm32l4s5aii3": 380,
+      "stm32l4s7aii6": 380,
+      "stm32l4s9aii6": 380
+    }
+  },
+  "majority": {
+    "bits": {
+      "stm32f030c6t6": {
+        "majority": 584,
+        "total": 1346
+      },
+      "stm32f030c8t6": {
+        "majority": 636,
+        "total": 1459
+      },
+      "stm32f030cct6": {
+        "majority": 636,
+        "total": 1622
+      },
+      "stm32f031c4t6": {
+        "majority": 572,
+        "total": 1297
+      },
+      "stm32f038c6t6": {
+        "majority": 572,
+        "total": 1593
+      },
+      "stm32f042c4t6": {
+        "majority": 623,
+        "total": 1469
+      },
+      "stm32f048c6u6": {
+        "majority": 623,
+        "total": 1695
+      },
+      "stm32f051c4t6": {
+        "majority": 700,
+        "total": 1770
+      },
+      "stm32f058c8u6": {
+        "majority": 700,
+        "total": 1770
+      },
+      "stm32f070c6t6": {
+        "majority": 587,
+        "total": 1365
+      },
+      "stm32f070cbt6": {
+        "majority": 640,
+        "total": 1551
+      },
+      "stm32f071c8t6": {
+        "majority": 769,
+        "total": 1880
+      },
+      "stm32f072c8t6": {
+        "majority": 774,
+        "total": 1938
+      },
+      "stm32f078cbt6": {
+        "majority": 771,
+        "total": 1880
+      },
+      "stm32f091cbt6": {
+        "majority": 771,
+        "total": 2116
+      },
+      "stm32f098cct6": {
+        "majority": 766,
+        "total": 2020
+      },
+      "stm32f100c4t6": {
+        "majority": 231,
+        "total": 575
+      },
+      "stm32f100rct6": {
+        "majority": 314,
+        "total": 867
+      },
+      "stm32f101c4t6": {
+        "majority": 126,
+        "total": 377
+      },
+      "stm32f101c8t6": {
+        "majority": 185,
+        "total": 494
+      },
+      "stm32f101rct6": {
+        "majority": 308,
+        "total": 950
+      },
+      "stm32f101rft6": {
+        "majority": 356,
+        "total": 1046
+      },
+      "stm32f102c4t6": {
+        "majority": 126,
+        "total": 403
+      },
+      "stm32f102c8t6": {
+        "majority": 127,
+        "total": 521
+      },
+      "stm32f103c4t6": {
+        "majority": 170,
+        "total": 558
+      },
+      "stm32f103c8t6": {
+        "majority": 229,
+        "total": 675
+      },
+      "stm32f103rct6": {
+        "majority": 408,
+        "total": 1221
+      },
+      "stm32f103rft6": {
+        "majority": 456,
+        "total": 1317
+      },
+      "stm32f105r8t6": {
+        "majority": 288,
+        "total": 744
+      },
+      "stm32f107rbt6": {
+        "majority": 355,
+        "total": 945
+      },
+      "stm32f205rbt6": {
+        "majority": 367,
+        "total": 2325
+      },
+      "stm32f207ich6": {
+        "majority": 742,
+        "total": 2455
+      },
+      "stm32f215ret6": {
+        "majority": 371,
+        "total": 2852
+      },
+      "stm32f217ieh6": {
+        "majority": 746,
+        "total": 2982
+      },
+      "stm32f301c6t6": {
+        "majority": 414,
+        "total": 1743
+      },
+      "stm32f302c6t6": {
+        "majority": 421,
+        "total": 1737
+      },
+      "stm32f302cbt6": {
+        "majority": 495,
+        "total": 2286
+      },
+      "stm32f302rdt6": {
+        "majority": 580,
+        "total": 2611
+      },
+      "stm32f303c6t6": {
+        "majority": 435,
+        "total": 1806
+      },
+      "stm32f303cbt6": {
+        "majority": 757,
+        "total": 2765
+      },
+      "stm32f303rdt6": {
+        "majority": 855,
+        "total": 3145
+      },
+      "stm32f318c8t6": {
+        "majority": 416,
+        "total": 2138
+      },
+      "stm32f328c8t6": {
+        "majority": 578,
+        "total": 2022
+      },
+      "stm32f334c4t6": {
+        "majority": 503,
+        "total": 2186
+      },
+      "stm32f358cct6": {
+        "majority": 768,
+        "total": 2954
+      },
+      "stm32f373c8t6": {
+        "majority": 552,
+        "total": 1929
+      },
+      "stm32f378cct6": {
+        "majority": 596,
+        "total": 2020
+      },
+      "stm32f398vet6": {
+        "majority": 867,
+        "total": 3319
+      },
+      "stm32f401cbu3": {
+        "majority": 1085,
+        "total": 2622
+      },
+      "stm32f401cdu6": {
+        "majority": 1085,
+        "total": 2622
+      },
+      "stm32f405oey6": {
+        "majority": 1516,
+        "total": 3889
+      },
+      "stm32f407ieh6": {
+        "majority": 1655,
+        "total": 4021
+      },
+      "stm32f410c8t3": {
+        "majority": 822,
+        "total": 1710
+      },
+      "stm32f410r8i3": {
+        "majority": 822,
+        "total": 1710
+      },
+      "stm32f410t8y6": {
+        "majority": 756,
+        "total": 1574
+      },
+      "stm32f411ccu6": {
+        "majority": 1117,
+        "total": 2688
+      },
+      "stm32f412ceu6": {
+        "majority": 1057,
+        "total": 2912
+      },
+      "stm32f412ret6": {
+        "majority": 1262,
+        "total": 3168
+      },
+      "stm32f412veh3": {
+        "majority": 1390,
+        "total": 3424
+      },
+      "stm32f412zej3": {
+        "majority": 1646,
+        "total": 3936
+      },
+      "stm32f413cgu3": {
+        "majority": 1998,
+        "total": 4772
+      },
+      "stm32f427agh6": {
+        "majority": 2024,
+        "total": 4767
+      },
+      "stm32f429agh6": {
+        "majority": 2027,
+        "total": 4787
+      },
+      "stm32f446mcy6": {
+        "majority": 1772,
+        "total": 3990
+      },
+      "stm32f469aeh6": {
+        "majority": 2588,
+        "total": 6423
+      },
+      "stm32f722ick6": {
+        "majority": 1272,
+        "total": 4537
+      },
+      "stm32f723ick6": {
+        "majority": 1274,
+        "total": 4537
+      },
+      "stm32f730i8k6": {
+        "majority": 1274,
+        "total": 4537
+      },
+      "stm32f732iek6": {
+        "majority": 1272,
+        "total": 4537
+      },
+      "stm32f733iek6": {
+        "majority": 1274,
+        "total": 4537
+      },
+      "stm32f745iek6": {
+        "majority": 1425,
+        "total": 5704
+      },
+      "stm32f746bet6": {
+        "majority": 1467,
+        "total": 5608
+      },
+      "stm32f750n8h6": {
+        "majority": 1438,
+        "total": 5708
+      },
+      "stm32f756bgt6": {
+        "majority": 1470,
+        "total": 5612
+      },
+      "stm32f765bgt6": {
+        "majority": 1593,
+        "total": 6448
+      },
+      "stm32f767bgt6": {
+        "majority": 1574,
+        "total": 6435
+      },
+      "stm32f768aiy6": {
+        "majority": 1574,
+        "total": 6435
+      },
+      "stm32f769agy6": {
+        "majority": 2053,
+        "total": 8406
+      },
+      "stm32f777bit6": {
+        "majority": 1577,
+        "total": 6439
+      },
+      "stm32f778aiy6": {
+        "majority": 1577,
+        "total": 6439
+      },
+      "stm32f779aiy6": {
+        "majority": 2056,
+        "total": 8410
+      },
+      "stm32g030c6t6": {
+        "majority": 874,
+        "total": 1983
+      },
+      "stm32g031c4t6": {
+        "majority": 1007,
+        "total": 2459
+      },
+      "stm32g041c6t6": {
+        "majority": 1007,
+        "total": 2715
+      },
+      "stm32g050c6t6": {
+        "majority": 811,
+        "total": 2123
+      },
+      "stm32g051c6t6": {
+        "majority": 858,
+        "total": 2057
+      },
+      "stm32g061c6t6": {
+        "majority": 845,
+        "total": 2059
+      },
+      "stm32g070cbt6": {
+        "majority": 893,
+        "total": 2039
+      },
+      "stm32g071c6t6": {
+        "majority": 1022,
+        "total": 2699
+      },
+      "stm32g081cbt6": {
+        "majority": 1049,
+        "total": 3009
+      },
+      "stm32g0b0cet6": {
+        "majority": 998,
+        "total": 2236
+      },
+      "stm32g0b1cbt6": {
+        "majority": 1201,
+        "total": 2671
+      },
+      "stm32g0c1cct6": {
+        "majority": 1201,
+        "total": 2671
+      },
+      "stm32g431c6t6": {
+        "majority": 1596,
+        "total": 4064
+      },
+      "stm32g441cbt3": {
+        "majority": 1596,
+        "total": 4064
+      },
+      "stm32g471cct6": {
+        "majority": 1755,
+        "total": 4472
+      },
+      "stm32g473cbt3": {
+        "majority": 1922,
+        "total": 4913
+      },
+      "stm32g474cbt3": {
+        "majority": 2088,
+        "total": 5646
+      },
+      "stm32g483cet3": {
+        "majority": 1924,
+        "total": 4917
+      },
+      "stm32g484cet3": {
+        "majority": 2088,
+        "total": 5902
+      },
+      "stm32g491cct3": {
+        "majority": 1693,
+        "total": 4030
+      },
+      "stm32g4a1cet6": {
+        "majority": 1693,
+        "total": 4286
+      },
+      "stm32h723veh6": {
+        "majority": 2838,
+        "total": 13276
+      },
+      "stm32h733vgh6": {
+        "majority": 2841,
+        "total": 13294
+      },
+      "stm32h742agi6": {
+        "majority": 3524,
+        "total": 13099
+      },
+      "stm32h743agi6": {
+        "majority": 3539,
+        "total": 13101
+      },
+      "stm32h745bgt6@m4": {
+        "majority": 3846,
+        "total": 14439
+      },
+      "stm32h745bgt6@m7": {
+        "majority": 3846,
+        "total": 14439
+      },
+      "stm32h747agi6@m4": {
+        "majority": 3431,
+        "total": 12185
+      },
+      "stm32h747agi6@m7": {
+        "majority": 3431,
+        "total": 12185
+      },
+      "stm32h750ibk6": {
+        "majority": 3253,
+        "total": 15500
+      },
+      "stm32h753aii6": {
+        "majority": 3542,
+        "total": 16819
+      },
+      "stm32h755bit3@m4": {
+        "majority": 3851,
+        "total": 14453
+      },
+      "stm32h755bit3@m7": {
+        "majority": 3851,
+        "total": 14453
+      },
+      "stm32h757aii6@m4": {
+        "majority": 3436,
+        "total": 12199
+      },
+      "stm32h757aii6@m7": {
+        "majority": 3436,
+        "total": 12199
+      },
+      "stm32h7a3agi6q": {
+        "majority": 3118,
+        "total": 11972
+      },
+      "stm32h7b3aii6q": {
+        "majority": 3118,
+        "total": 19728
+      },
+      "stm32l011d3p6": {
+        "majority": 185,
+        "total": 794
+      },
+      "stm32l021d4p3": {
+        "majority": 187,
+        "total": 796
+      },
+      "stm32l031c4t6": {
+        "majority": 200,
+        "total": 820
+      },
+      "stm32l041c4t6": {
+        "majority": 202,
+        "total": 822
+      },
+      "stm32l051c6t6": {
+        "majority": 233,
+        "total": 888
+      },
+      "stm32l052c6t6": {
+        "majority": 367,
+        "total": 1224
+      },
+      "stm32l053c6t6": {
+        "majority": 369,
+        "total": 1736
+      },
+      "stm32l062c8u6": {
+        "majority": 368,
+        "total": 1226
+      },
+      "stm32l063c8t6": {
+        "majority": 370,
+        "total": 1738
+      },
+      "stm32l071c8t6": {
+        "majority": 267,
+        "total": 988
+      },
+      "stm32l072cbt6": {
+        "majority": 434,
+        "total": 1326
+      },
+      "stm32l073cbt6": {
+        "majority": 436,
+        "total": 1838
+      },
+      "stm32l081cbt6": {
+        "majority": 269,
+        "total": 990
+      },
+      "stm32l082czu3": {
+        "majority": 435,
+        "total": 1328
+      },
+      "stm32l083cbt6": {
+        "majority": 437,
+        "total": 1840
+      },
+      "stm32l100c6u6": {
+        "majority": 610,
+        "total": 2512
+      },
+      "stm32l100rbt6a": {
+        "majority": 719,
+        "total": 2602
+      },
+      "stm32l151c6t6": {
+        "majority": 701,
+        "total": 1870
+      },
+      "stm32l151c6t6a": {
+        "majority": 701,
+        "total": 1708
+      },
+      "stm32l151cbt6a": {
+        "majority": 701,
+        "total": 1975
+      },
+      "stm32l151cct6": {
+        "majority": 786,
+        "total": 2104
+      },
+      "stm32l151qch6": {
+        "majority": 1217,
+        "total": 3078
+      },
+      "stm32l151qeh6": {
+        "majority": 275,
+        "total": 2205
+      },
+      "stm32l151r6h6": {
+        "majority": 736,
+        "total": 2286
+      },
+      "stm32l151rct6": {
+        "majority": 930,
+        "total": 2483
+      },
+      "stm32l151rct6a": {
+        "majority": 705,
+        "total": 2585
+      },
+      "stm32l151vdt6x": {
+        "majority": 1098,
+        "total": 2823
+      },
+      "stm32l152c6t6": {
+        "majority": 702,
+        "total": 2384
+      },
+      "stm32l152c6t6a": {
+        "majority": 702,
+        "total": 2222
+      },
+      "stm32l152cbt6a": {
+        "majority": 702,
+        "total": 2489
+      },
+      "stm32l152cct3": {
+        "majority": 787,
+        "total": 2618
+      },
+      "stm32l152qch6": {
+        "majority": 1218,
+        "total": 3592
+      },
+      "stm32l152qeh6": {
+        "majority": 276,
+        "total": 2719
+      },
+      "stm32l152r6h6": {
+        "majority": 737,
+        "total": 2800
+      },
+      "stm32l152rct3": {
+        "majority": 931,
+        "total": 2997
+      },
+      "stm32l152rct6a": {
+        "majority": 706,
+        "total": 3099
+      },
+      "stm32l152vdt6x": {
+        "majority": 1099,
+        "total": 3337
+      },
+      "stm32l162qch6": {
+        "majority": 1219,
+        "total": 3594
+      },
+      "stm32l162rct6": {
+        "majority": 932,
+        "total": 2999
+      },
+      "stm32l162ret6": {
+        "majority": 1100,
+        "total": 3339
+      },
+      "stm32l412c8t6": {
+        "majority": 1607,
+        "total": 4346
+      },
+      "stm32l422cbt6": {
+        "majority": 1607,
+        "total": 4346
+      },
+      "stm32l431cbt6": {
+        "majority": 1871,
+        "total": 4451
+      },
+      "stm32l432kbu6": {
+        "majority": 1319,
+        "total": 4173
+      },
+      "stm32l433cbt6": {
+        "majority": 1859,
+        "total": 4893
+      },
+      "stm32l442kcu6": {
+        "majority": 1319,
+        "total": 4173
+      },
+      "stm32l443ccf6": {
+        "majority": 1859,
+        "total": 4893
+      },
+      "stm32l451ccu3": {
+        "majority": 1959,
+        "total": 4736
+      },
+      "stm32l452ccu6": {
+        "majority": 1961,
+        "total": 4736
+      },
+      "stm32l462cet3": {
+        "majority": 1961,
+        "total": 4736
+      },
+      "stm32l471qei3": {
+        "majority": 2033,
+        "total": 5075
+      },
+      "stm32l475rct3": {
+        "majority": 2495,
+        "total": 6066
+      },
+      "stm32l476jey6": {
+        "majority": 2502,
+        "total": 6549
+      },
+      "stm32l485jcy6": {
+        "majority": 2495,
+        "total": 6066
+      },
+      "stm32l486jgy6": {
+        "majority": 2502,
+        "total": 6549
+      },
+      "stm32l496aei6": {
+        "majority": 2741,
+        "total": 10691
+      },
+      "stm32l4a6agi6": {
+        "majority": 2744,
+        "total": 10691
+      },
+      "stm32l4p5aei6": {
+        "majority": 2746,
+        "total": 6683
+      },
+      "stm32l4q5agi6": {
+        "majority": 2746,
+        "total": 6683
+      },
+      "stm32l4r5agi6": {
+        "majority": 2784,
+        "total": 10929
+      },
+      "stm32l4r7aii6": {
+        "majority": 2785,
+        "total": 10929
+      },
+      "stm32l4r9agi6": {
+        "majority": 2917,
+        "total": 11394
+      },
+      "stm32l4s5aii3": {
+        "majority": 2784,
+        "total": 10929
+      },
+      "stm32l4s7aii6": {
+        "majority": 2785,
+        "total": 10929
+      },
+      "stm32l4s9aii6": {
+        "majority": 2917,
+        "total": 11394
+      }
+    },
+    "registers": {
+      "stm32f030c6t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f030c8t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f030cct6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f031c4t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f038c6t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f042c4t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f048c6u6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f051c4t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f058c8u6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f070c6t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f070cbt6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f071c8t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f072c8t6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f078cbt6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f091cbt6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f098cct6": {
+        "majority": 0,
+        "total": 16
+      },
+      "stm32f100c4t6": {
+        "majority": 8,
+        "total": 16
+      },
+      "stm32f100rct6": {
+        "majority": 8,
+        "total": 48
+      },
+      "stm32f101c4t6": {
+        "majority": 4,
+        "total": 8
+      },
+      "stm32f101c8t6": {
+        "majority": 4,
+        "total": 8
+      },
+      "stm32f101rct6": {
+        "majority": 20,
+        "total": 40
+      },
+      "stm32f101rft6": {
+        "majority": 20,
+        "total": 40
+      },
+      "stm32f102c4t6": {
+        "majority": 4,
+        "total": 8
+      },
+      "stm32f102c8t6": {
+        "majority": 4,
+        "total": 8
+      },
+      "stm32f103c4t6": {
+        "majority": 0,
+        "total": 8
+      },
+      "stm32f103c8t6": {
+        "majority": 0,
+        "total": 8
+      },
+      "stm32f103rct6": {
+        "majority": 20,
+        "total": 40
+      },
+      "stm32f103rft6": {
+        "majority": 20,
+        "total": 40
+      },
+      "stm32f105r8t6": {
+        "majority": 8,
+        "total": 28
+      },
+      "stm32f107rbt6": {
+        "majority": 8,
+        "total": 28
+      },
+      "stm32f205rbt6": {
+        "majority": 28,
+        "total": 220
+      },
+      "stm32f207ich6": {
+        "majority": 76,
+        "total": 220
+      },
+      "stm32f215ret6": {
+        "majority": 28,
+        "total": 220
+      },
+      "stm32f217ieh6": {
+        "majority": 76,
+        "total": 220
+      },
+      "stm32f301c6t6": {
+        "majority": 4,
+        "total": 16
+      },
+      "stm32f302c6t6": {
+        "majority": 16,
+        "total": 32
+      },
+      "stm32f302cbt6": {
+        "majority": 16,
+        "total": 32
+      },
+      "stm32f302rdt6": {
+        "majority": 16,
+        "total": 32
+      },
+      "stm32f303c6t6": {
+        "majority": 16,
+        "total": 32
+      },
+      "stm32f303cbt6": {
+        "majority": 16,
+        "total": 32
+      },
+      "stm32f303rdt6": {
+        "majority": 16,
+        "total": 32
+      },
+      "stm32f318c8t6": {
+        "majority": 0,
+        "total": 112
+      },
+      "stm32f328c8t6": {
+        "majority": 48,
+        "total": 96
+      },
+      "stm32f334c4t6": {
+        "majority": 56,
+        "total": 208
+      },
+      "stm32f358cct6": {
+        "majority": 48,
+        "total": 96
+      },
+      "stm32f373c8t6": {
+        "majority": 4,
+        "total": 8
+      },
+      "stm32f378cct6": {
+        "majority": 20,
+        "total": 48
+      },
+      "stm32f398vet6": {
+        "majority": 48,
+        "total": 96
+      },
+      "stm32f401cbu3": {
+        "majority": 4,
+        "total": 20
+      },
+      "stm32f401cdu6": {
+        "majority": 4,
+        "total": 20
+      },
+      "stm32f405oey6": {
+        "majority": 28,
+        "total": 124
+      },
+      "stm32f407ieh6": {
+        "majority": 28,
+        "total": 124
+      },
+      "stm32f410c8t3": {
+        "majority": 24,
+        "total": 56
+      },
+      "stm32f410r8i3": {
+        "majority": 24,
+        "total": 56
+      },
+      "stm32f410t8y6": {
+        "majority": 24,
+        "total": 56
+      },
+      "stm32f411ccu6": {
+        "majority": 4,
+        "total": 20
+      },
+      "stm32f412ceu6": {
+        "majority": 56,
+        "total": 220
+      },
+      "stm32f412ret6": {
+        "majority": 84,
+        "total": 252
+      },
+      "stm32f412veh3": {
+        "majority": 84,
+        "total": 252
+      },
+      "stm32f412zej3": {
+        "majority": 84,
+        "total": 252
+      },
+      "stm32f413cgu3": {
+        "majority": 220,
+        "total": 484
+      },
+      "stm32f427agh6": {
+        "majority": 28,
+        "total": 164
+      },
+      "stm32f429agh6": {
+        "majority": 28,
+        "total": 164
+      },
+      "stm32f446mcy6": {
+        "majority": 68,
+        "total": 220
+      },
+      "stm32f469aeh6": {
+        "majority": 88,
+        "total": 476
+      },
+      "stm32f722ick6": {
+        "majority": 32,
+        "total": 112
+      },
+      "stm32f723ick6": {
+        "majority": 36,
+        "total": 120
+      },
+      "stm32f730i8k6": {
+        "majority": 36,
+        "total": 120
+      },
+      "stm32f732iek6": {
+        "majority": 32,
+        "total": 112
+      },
+      "stm32f733iek6": {
+        "majority": 36,
+        "total": 120
+      },
+      "stm32f745iek6": {
+        "majority": 56,
+        "total": 220
+      },
+      "stm32f746bet6": {
+        "majority": 52,
+        "total": 212
+      },
+      "stm32f750n8h6": {
+        "majority": 56,
+        "total": 220
+      },
+      "stm32f756bgt6": {
+        "majority": 52,
+        "total": 212
+      },
+      "stm32f765bgt6": {
+        "majority": 284,
+        "total": 836
+      },
+      "stm32f767bgt6": {
+        "majority": 276,
+        "total": 836
+      },
+      "stm32f768aiy6": {
+        "majority": 276,
+        "total": 836
+      },
+      "stm32f769agy6": {
+        "majority": 216,
+        "total": 1096
+      },
+      "stm32f777bit6": {
+        "majority": 276,
+        "total": 836
+      },
+      "stm32f778aiy6": {
+        "majority": 276,
+        "total": 836
+      },
+      "stm32f779aiy6": {
+        "majority": 216,
+        "total": 1096
+      },
+      "stm32g030c6t6": {
+        "majority": 32,
+        "total": 72
+      },
+      "stm32g031c4t6": {
+        "majority": 24,
+        "total": 72
+      },
+      "stm32g041c6t6": {
+        "majority": 24,
+        "total": 72
+      },
+      "stm32g050c6t6": {
+        "majority": 12,
+        "total": 96
+      },
+      "stm32g051c6t6": {
+        "majority": 4,
+        "total": 108
+      },
+      "stm32g061c6t6": {
+        "majority": 0,
+        "total": 108
+      },
+      "stm32g070cbt6": {
+        "majority": 12,
+        "total": 96
+      },
+      "stm32g071c6t6": {
+        "majority": 20,
+        "total": 124
+      },
+      "stm32g081cbt6": {
+        "majority": 20,
+        "total": 124
+      },
+      "stm32g0b0cet6": {
+        "majority": 12,
+        "total": 104
+      },
+      "stm32g0b1cbt6": {
+        "majority": 52,
+        "total": 228
+      },
+      "stm32g0c1cct6": {
+        "majority": 52,
+        "total": 228
+      },
+      "stm32g431c6t6": {
+        "majority": 60,
+        "total": 176
+      },
+      "stm32g441cbt3": {
+        "majority": 60,
+        "total": 176
+      },
+      "stm32g471cct6": {
+        "majority": 68,
+        "total": 192
+      },
+      "stm32g473cbt3": {
+        "majority": 84,
+        "total": 232
+      },
+      "stm32g474cbt3": {
+        "majority": 140,
+        "total": 416
+      },
+      "stm32g483cet3": {
+        "majority": 84,
+        "total": 232
+      },
+      "stm32g484cet3": {
+        "majority": 140,
+        "total": 416
+      },
+      "stm32g491cct3": {
+        "majority": 68,
+        "total": 176
+      },
+      "stm32g4a1cet6": {
+        "majority": 68,
+        "total": 176
+      },
+      "stm32h723veh6": {
+        "majority": 304,
+        "total": 2540
+      },
+      "stm32h733vgh6": {
+        "majority": 304,
+        "total": 3116
+      },
+      "stm32h742agi6": {
+        "majority": 516,
+        "total": 3480
+      },
+      "stm32h743agi6": {
+        "majority": 516,
+        "total": 3480
+      },
+      "stm32h745bgt6@m4": {
+        "majority": 748,
+        "total": 3512
+      },
+      "stm32h745bgt6@m7": {
+        "majority": 748,
+        "total": 3512
+      },
+      "stm32h747agi6@m4": {
+        "majority": 388,
+        "total": 2840
+      },
+      "stm32h747agi6@m7": {
+        "majority": 388,
+        "total": 2840
+      },
+      "stm32h750ibk6": {
+        "majority": 240,
+        "total": 3076
+      },
+      "stm32h753aii6": {
+        "majority": 516,
+        "total": 3480
+      },
+      "stm32h755bit3@m4": {
+        "majority": 748,
+        "total": 3512
+      },
+      "stm32h755bit3@m7": {
+        "majority": 748,
+        "total": 3512
+      },
+      "stm32h757aii6@m4": {
+        "majority": 388,
+        "total": 2840
+      },
+      "stm32h757aii6@m7": {
+        "majority": 388,
+        "total": 2840
+      },
+      "stm32h7a3agi6q": {
+        "majority": 564,
+        "total": 2364
+      },
+      "stm32h7b3aii6q": {
+        "majority": 500,
+        "total": 3284
+      },
+      "stm32l011d3p6": {
+        "majority": 8,
+        "total": 40
+      },
+      "stm32l021d4p3": {
+        "majority": 8,
+        "total": 40
+      },
+      "stm32l031c4t6": {
+        "majority": 8,
+        "total": 40
+      },
+      "stm32l041c4t6": {
+        "majority": 8,
+        "total": 40
+      },
+      "stm32l051c6t6": {
+        "majority": 8,
+        "total": 40
+      },
+      "stm32l052c6t6": {
+        "majority": 8,
+        "total": 16
+      },
+      "stm32l053c6t6": {
+        "majority": 8,
+        "total": 16
+      },
+      "stm32l062c8u6": {
+        "majority": 8,
+        "total": 16
+      },
+      "stm32l063c8t6": {
+        "majority": 8,
+        "total": 16
+      },
+      "stm32l071c8t6": {
+        "majority": 8,
+        "total": 48
+      },
+      "stm32l072cbt6": {
+        "majority": 8,
+        "total": 24
+      },
+      "stm32l073cbt6": {
+        "majority": 8,
+        "total": 24
+      },
+      "stm32l081cbt6": {
+        "majority": 8,
+        "total": 48
+      },
+      "stm32l082czu3": {
+        "majority": 8,
+        "total": 24
+      },
+      "stm32l083cbt6": {
+        "majority": 8,
+        "total": 24
+      },
+      "stm32l100c6u6": {
+        "majority": 16,
+        "total": 64
+      },
+      "stm32l100rbt6a": {
+        "majority": 24,
+        "total": 64
+      },
+      "stm32l151cbt6a": {
+        "majority": 0,
+        "total": 2
+      },
+      "stm32l151cct6": {
+        "majority": 0,
+        "total": 3
+      },
+      "stm32l151qch6": {
+        "majority": 44,
+        "total": 102
+      },
+      "stm32l151qeh6": {
+        "majority": 0,
+        "total": 2
+      },
+      "stm32l151r6h6": {
+        "majority": 20,
+        "total": 64
+      },
+      "stm32l151rct6": {
+        "majority": 28,
+        "total": 67
+      },
+      "stm32l151rct6a": {
+        "majority": 0,
+        "total": 36
+      },
+      "stm32l151vdt6x": {
+        "majority": 28,
+        "total": 67
+      },
+      "stm32l152cbt6a": {
+        "majority": 0,
+        "total": 2
+      },
+      "stm32l152cct3": {
+        "majority": 0,
+        "total": 3
+      },
+      "stm32l152qch6": {
+        "majority": 44,
+        "total": 102
+      },
+      "stm32l152qeh6": {
+        "majority": 0,
+        "total": 2
+      },
+      "stm32l152r6h6": {
+        "majority": 20,
+        "total": 64
+      },
+      "stm32l152rct3": {
+        "majority": 28,
+        "total": 67
+      },
+      "stm32l152rct6a": {
+        "majority": 0,
+        "total": 36
+      },
+      "stm32l152vdt6x": {
+        "majority": 28,
+        "total": 67
+      },
+      "stm32l162qch6": {
+        "majority": 44,
+        "total": 102
+      },
+      "stm32l162rct6": {
+        "majority": 28,
+        "total": 67
+      },
+      "stm32l162ret6": {
+        "majority": 28,
+        "total": 67
+      },
+      "stm32l412c8t6": {
+        "majority": 36,
+        "total": 80
+      },
+      "stm32l422cbt6": {
+        "majority": 36,
+        "total": 80
+      },
+      "stm32l431cbt6": {
+        "majority": 40,
+        "total": 80
+      },
+      "stm32l432kbu6": {
+        "majority": 40,
+        "total": 80
+      },
+      "stm32l433cbt6": {
+        "majority": 40,
+        "total": 80
+      },
+      "stm32l442kcu6": {
+        "majority": 40,
+        "total": 80
+      },
+      "stm32l443ccf6": {
+        "majority": 40,
+        "total": 80
+      },
+      "stm32l451ccu3": {
+        "majority": 60,
+        "total": 160
+      },
+      "stm32l452ccu6": {
+        "majority": 60,
+        "total": 160
+      },
+      "stm32l462cet3": {
+        "majority": 60,
+        "total": 160
+      },
+      "stm32l471qei3": {
+        "majority": 24,
+        "total": 268
+      },
+      "stm32l475rct3": {
+        "majority": 24,
+        "total": 308
+      },
+      "stm32l476jey6": {
+        "majority": 28,
+        "total": 320
+      },
+      "stm32l485jcy6": {
+        "majority": 24,
+        "total": 308
+      },
+      "stm32l486jgy6": {
+        "majority": 28,
+        "total": 320
+      },
+      "stm32l496aei6": {
+        "majority": 44,
+        "total": 320
+      },
+      "stm32l4a6agi6": {
+        "majority": 44,
+        "total": 320
+      },
+      "stm32l4p5aei6": {
+        "majority": 120,
+        "total": 576
+      },
+      "stm32l4q5agi6": {
+        "majority": 120,
+        "total": 576
+      },
+      "stm32l4r5agi6": {
+        "majority": 60,
+        "total": 788
+      },
+      "stm32l4r7aii6": {
+        "majority": 60,
+        "total": 788
+      },
+      "stm32l4r9agi6": {
+        "majority": 160,
+        "total": 860
+      },
+      "stm32l4s5aii3": {
+        "majority": 60,
+        "total": 788
+      },
+      "stm32l4s7aii6": {
+        "majority": 60,
+        "total": 788
+      },
+      "stm32l4s9aii6": {
+        "majority": 160,
+        "total": 860
+      }
+    }
+  },
+  "peripherals": {
+    "cm": {
+      "stm32f030c6t6": 124,
+      "stm32f030c8t6": 124,
+      "stm32f030cct6": 124,
+      "stm32f031c4t6": 112,
+      "stm32f038c6t6": 148,
+      "stm32f042c4t6": 136,
+      "stm32f048c6u6": 148,
+      "stm32f051c4t6": 148,
+      "stm32f058c8u6": 148,
+      "stm32f070c6t6": 148,
+      "stm32f070cbt6": 148,
+      "stm32f071c8t6": 148,
+      "stm32f072c8t6": 172,
+      "stm32f078cbt6": 148,
+      "stm32f091cbt6": 184,
+      "stm32f098cct6": 148,
+      "stm32f100c4t6": 192,
+      "stm32f100rct6": 192,
+      "stm32f101c4t6": 184,
+      "stm32f101c8t6": 184,
+      "stm32f101rct6": 184,
+      "stm32f101rft6": 184,
+      "stm32f102c4t6": 100,
+      "stm32f102c8t6": 100,
+      "stm32f103c4t6": 212,
+      "stm32f103c8t6": 212,
+      "stm32f103rct6": 212,
+      "stm32f103rft6": 212,
+      "stm32f105r8t6": 180,
+      "stm32f107rbt6": 196,
+      "stm32f205rbt6": 284,
+      "stm32f207ich6": 284,
+      "stm32f215ret6": 292,
+      "stm32f217ieh6": 292,
+      "stm32f301c6t6": 172,
+      "stm32f302c6t6": 256,
+      "stm32f302cbt6": 256,
+      "stm32f302rdt6": 256,
+      "stm32f303c6t6": 256,
+      "stm32f303cbt6": 256,
+      "stm32f303rdt6": 256,
+      "stm32f318c8t6": 280,
+      "stm32f328c8t6": 280,
+      "stm32f334c4t6": 228,
+      "stm32f358cct6": 280,
+      "stm32f373c8t6": 240,
+      "stm32f378cct6": 280,
+      "stm32f398vet6": 280,
+      "stm32f401cbu3": 216,
+      "stm32f401cdu6": 216,
+      "stm32f405oey6": 364,
+      "stm32f407ieh6": 364,
+      "stm32f410c8t3": 176,
+      "stm32f410r8i3": 176,
+      "stm32f410t8y6": 176,
+      "stm32f411ccu6": 220,
+      "stm32f412ceu6": 280,
+      "stm32f412ret6": 280,
+      "stm32f412veh3": 280,
+      "stm32f412zej3": 280,
+      "stm32f413cgu3": 324,
+      "stm32f427agh6": 368,
+      "stm32f429agh6": 368,
+      "stm32f446mcy6": 312,
+      "stm32f469aeh6": 376,
+      "stm32f722ick6": 340,
+      "stm32f723ick6": 340,
+      "stm32f730i8k6": 340,
+      "stm32f732iek6": 340,
+      "stm32f733iek6": 340,
+      "stm32f745iek6": 392,
+      "stm32f746bet6": 392,
+      "stm32f750n8h6": 392,
+      "stm32f756bgt6": 392,
+      "stm32f765bgt6": 416,
+      "stm32f767bgt6": 408,
+      "stm32f768aiy6": 408,
+      "stm32f769agy6": 408,
+      "stm32f777bit6": 408,
+      "stm32f778aiy6": 408,
+      "stm32f779aiy6": 408,
+      "stm32g030c6t6": 128,
+      "stm32g031c4t6": 144,
+      "stm32g041c6t6": 152,
+      "stm32g050c6t6": 136,
+      "stm32g051c6t6": 156,
+      "stm32g061c6t6": 152,
+      "stm32g070cbt6": 180,
+      "stm32g071c6t6": 180,
+      "stm32g081cbt6": 184,
+      "stm32g0b0cet6": 172,
+      "stm32g0b1cbt6": 220,
+      "stm32g0c1cct6": 228,
+      "stm32g431c6t6": 288,
+      "stm32g441cbt3": 288,
+      "stm32g471cct6": 312,
+      "stm32g473cbt3": 336,
+      "stm32g474cbt3": 364,
+      "stm32g483cet3": 336,
+      "stm32g484cet3": 368,
+      "stm32g491cct3": 292,
+      "stm32g4a1cet6": 296,
+      "stm32h723veh6": 520,
+      "stm32h733vgh6": 520,
+      "stm32h742agi6": 512,
+      "stm32h743agi6": 512,
+      "stm32h745bgt6@m4": 536,
+      "stm32h745bgt6@m7": 536,
+      "stm32h747agi6@m4": 476,
+      "stm32h747agi6@m7": 492,
+      "stm32h750ibk6": 516,
+      "stm32h753aii6": 520,
+      "stm32h755bit3@m4": 536,
+      "stm32h755bit3@m7": 536,
+      "stm32h757aii6@m4": 476,
+      "stm32h757aii6@m7": 492,
+      "stm32h7a3agi6q": 508,
+      "stm32h7b3aii6q": 524,
+      "stm32l011d3p6": 164,
+      "stm32l021d4p3": 164,
+      "stm32l031c4t6": 164,
+      "stm32l041c4t6": 164,
+      "stm32l051c6t6": 164,
+      "stm32l052c6t6": 188,
+      "stm32l053c6t6": 192,
+      "stm32l062c8u6": 188,
+      "stm32l063c8t6": 192,
+      "stm32l071c8t6": 164,
+      "stm32l072cbt6": 188,
+      "stm32l073cbt6": 192,
+      "stm32l081cbt6": 164,
+      "stm32l082czu3": 188,
+      "stm32l083cbt6": 192,
+      "stm32l100c6u6": 152,
+      "stm32l100rbt6a": 152,
+      "stm32l151c6t6": 188,
+      "stm32l151c6t6a": 164,
+      "stm32l151cbt6a": 164,
+      "stm32l151cct6": 188,
+      "stm32l151qch6": 204,
+      "stm32l151qeh6": 184,
+      "stm32l151r6h6": 204,
+      "stm32l151rct6": 204,
+      "stm32l151rct6a": 164,
+      "stm32l151vdt6x": 204,
+      "stm32l152c6t6": 188,
+      "stm32l152c6t6a": 164,
+      "stm32l152cbt6a": 164,
+      "stm32l152cct3": 188,
+      "stm32l152qch6": 204,
+      "stm32l152qeh6": 184,
+      "stm32l152r6h6": 204,
+      "stm32l152rct3": 204,
+      "stm32l152rct6a": 164,
+      "stm32l152vdt6x": 204,
+      "stm32l162qch6": 204,
+      "stm32l162rct6": 204,
+      "stm32l162ret6": 204,
+      "stm32l412c8t6": 264,
+      "stm32l422cbt6": 264,
+      "stm32l431cbt6": 264,
+      "stm32l432kbu6": 264,
+      "stm32l433cbt6": 240,
+      "stm32l442kcu6": 264,
+      "stm32l443ccf6": 240,
+      "stm32l451ccu3": 264,
+      "stm32l452ccu6": 264,
+      "stm32l462cet3": 264,
+      "stm32l471qei3": 264,
+      "stm32l475rct3": 304,
+      "stm32l476jey6": 340,
+      "stm32l485jcy6": 304,
+      "stm32l486jgy6": 340,
+      "stm32l496aei6": 340,
+      "stm32l4a6agi6": 340,
+      "stm32l4p5aei6": 304,
+      "stm32l4q5agi6": 304,
+      "stm32l4r5agi6": 344,
+      "stm32l4r7aii6": 344,
+      "stm32l4r9agi6": 344,
+      "stm32l4s5aii3": 344,
+      "stm32l4s7aii6": 344,
+      "stm32l4s9aii6": 344
+    },
+    "hd": {
+      "stm32f030c6t6": 104,
+      "stm32f030c8t6": 124,
+      "stm32f030cct6": 144,
+      "stm32f031c4t6": 104,
+      "stm32f038c6t6": 104,
+      "stm32f042c4t6": 132,
+      "stm32f048c6u6": 132,
+      "stm32f051c4t6": 146,
+      "stm32f058c8u6": 146,
+      "stm32f070c6t6": 112,
+      "stm32f070cbt6": 140,
+      "stm32f071c8t6": 166,
+      "stm32f072c8t6": 174,
+      "stm32f078cbt6": 174,
+      "stm32f091cbt6": 190,
+      "stm32f098cct6": 190,
+      "stm32f100c4t6": 148,
+      "stm32f100rct6": 196,
+      "stm32f101c4t6": 96,
+      "stm32f101c8t6": 116,
+      "stm32f101rct6": 172,
+      "stm32f101rft6": 196,
+      "stm32f102c4t6": 100,
+      "stm32f102c8t6": 116,
+      "stm32f103c4t6": 112,
+      "stm32f103c8t6": 132,
+      "stm32f103rct6": 200,
+      "stm32f103rft6": 224,
+      "stm32f105r8t6": 168,
+      "stm32f107rbt6": 172,
+      "stm32f205rbt6": 248,
+      "stm32f207ich6": 256,
+      "stm32f215ret6": 256,
+      "stm32f217ieh6": 264,
+      "stm32f301c6t6": 160,
+      "stm32f302c6t6": 168,
+      "stm32f302cbt6": 204,
+      "stm32f302rdt6": 220,
+      "stm32f303c6t6": 164,
+      "stm32f303cbt6": 244,
+      "stm32f303rdt6": 264,
+      "stm32f318c8t6": 160,
+      "stm32f328c8t6": 164,
+      "stm32f334c4t6": 192,
+      "stm32f358cct6": 244,
+      "stm32f373c8t6": 210,
+      "stm32f378cct6": 206,
+      "stm32f398vet6": 264,
+      "stm32f401cbu3": 164,
+      "stm32f401cdu6": 164,
+      "stm32f405oey6": 256,
+      "stm32f407ieh6": 264,
+      "stm32f410c8t3": 136,
+      "stm32f410r8i3": 136,
+      "stm32f410t8y6": 124,
+      "stm32f411ccu6": 168,
+      "stm32f412ceu6": 208,
+      "stm32f412ret6": 224,
+      "stm32f412veh3": 228,
+      "stm32f412zej3": 236,
+      "stm32f413cgu3": 280,
+      "stm32f427agh6": 304,
+      "stm32f429agh6": 308,
+      "stm32f446mcy6": 272,
+      "stm32f469aeh6": 312,
+      "stm32f722ick6": 280,
+      "stm32f723ick6": 284,
+      "stm32f730i8k6": 288,
+      "stm32f732iek6": 284,
+      "stm32f733iek6": 288,
+      "stm32f745iek6": 316,
+      "stm32f746bet6": 320,
+      "stm32f750n8h6": 332,
+      "stm32f756bgt6": 332,
+      "stm32f765bgt6": 332,
+      "stm32f767bgt6": 340,
+      "stm32f768aiy6": 340,
+      "stm32f769agy6": 344,
+      "stm32f777bit6": 352,
+      "stm32f778aiy6": 352,
+      "stm32f779aiy6": 356,
+      "stm32g030c6t6": 120,
+      "stm32g031c4t6": 140,
+      "stm32g041c6t6": 148,
+      "stm32g050c6t6": 132,
+      "stm32g051c6t6": 164,
+      "stm32g061c6t6": 172,
+      "stm32g070cbt6": 140,
+      "stm32g071c6t6": 184,
+      "stm32g081cbt6": 192,
+      "stm32g0b0cet6": 176,
+      "stm32g0b1cbt6": 244,
+      "stm32g0c1cct6": 252,
+      "stm32g431c6t6": 260,
+      "stm32g441cbt3": 264,
+      "stm32g471cct6": 292,
+      "stm32g473cbt3": 352,
+      "stm32g474cbt3": 384,
+      "stm32g483cet3": 356,
+      "stm32g484cet3": 388,
+      "stm32g491cct3": 288,
+      "stm32g4a1cet6": 292,
+      "stm32h723veh6": 500,
+      "stm32h733vgh6": 552,
+      "stm32h742agi6": 488,
+      "stm32h743agi6": 496,
+      "stm32h745bgt6@m4": 516,
+      "stm32h745bgt6@m7": 516,
+      "stm32h747agi6@m4": 520,
+      "stm32h747agi6@m7": 520,
+      "stm32h750ibk6": 508,
+      "stm32h753aii6": 508,
+      "stm32h755bit3@m4": 528,
+      "stm32h755bit3@m7": 528,
+      "stm32h757aii6@m4": 532,
+      "stm32h757aii6@m7": 532,
+      "stm32h7a3agi6q": 472,
+      "stm32h7b3aii6q": 524,
+      "stm32l011d3p6": 96,
+      "stm32l021d4p3": 100,
+      "stm32l031c4t6": 104,
+      "stm32l041c4t6": 108,
+      "stm32l051c6t6": 124,
+      "stm32l052c6t6": 144,
+      "stm32l053c6t6": 148,
+      "stm32l062c8u6": 148,
+      "stm32l063c8t6": 152,
+      "stm32l071c8t6": 148,
+      "stm32l072cbt6": 168,
+      "stm32l073cbt6": 172,
+      "stm32l081cbt6": 152,
+      "stm32l082czu3": 172,
+      "stm32l083cbt6": 176,
+      "stm32l100c6u6": 152,
+      "stm32l100rbt6a": 160,
+      "stm32l151c6t6": 152,
+      "stm32l151c6t6a": 152,
+      "stm32l151cbt6a": 169,
+      "stm32l151cct6": 169,
+      "stm32l151qch6": 198,
+      "stm32l151qeh6": 185,
+      "stm32l151r6h6": 152,
+      "stm32l151rct6": 169,
+      "stm32l151rct6a": 198,
+      "stm32l151vdt6x": 185,
+      "stm32l152c6t6": 156,
+      "stm32l152c6t6a": 156,
+      "stm32l152cbt6a": 173,
+      "stm32l152cct3": 173,
+      "stm32l152qch6": 202,
+      "stm32l152qeh6": 189,
+      "stm32l152r6h6": 156,
+      "stm32l152rct3": 173,
+      "stm32l152rct6a": 202,
+      "stm32l152vdt6x": 189,
+      "stm32l162qch6": 206,
+      "stm32l162rct6": 177,
+      "stm32l162ret6": 193,
+      "stm32l412c8t6": 188,
+      "stm32l422cbt6": 192,
+      "stm32l431cbt6": 212,
+      "stm32l432kbu6": 188,
+      "stm32l433cbt6": 220,
+      "stm32l442kcu6": 192,
+      "stm32l443ccf6": 224,
+      "stm32l451ccu3": 220,
+      "stm32l452ccu6": 224,
+      "stm32l462cet3": 228,
+      "stm32l471qei3": 280,
+      "stm32l475rct3": 284,
+      "stm32l476jey6": 288,
+      "stm32l485jcy6": 288,
+      "stm32l486jgy6": 292,
+      "stm32l496aei6": 312,
+      "stm32l4a6agi6": 324,
+      "stm32l4p5aei6": 324,
+      "stm32l4q5agi6": 332,
+      "stm32l4r5agi6": 292,
+      "stm32l4r7aii6": 300,
+      "stm32l4r9agi6": 304,
+      "stm32l4s5aii3": 304,
+      "stm32l4s7aii6": 312,
+      "stm32l4s9aii6": 316
+    },
+    "rm": {
+      "stm32f030c6t6": 144,
+      "stm32f030c8t6": 144,
+      "stm32f030cct6": 144,
+      "stm32f031c4t6": 188,
+      "stm32f038c6t6": 188,
+      "stm32f042c4t6": 188,
+      "stm32f048c6u6": 188,
+      "stm32f051c4t6": 188,
+      "stm32f058c8u6": 188,
+      "stm32f070c6t6": 144,
+      "stm32f070cbt6": 144,
+      "stm32f071c8t6": 188,
+      "stm32f072c8t6": 188,
+      "stm32f078cbt6": 188,
+      "stm32f091cbt6": 180,
+      "stm32f098cct6": 180,
+      "stm32f100c4t6": 136,
+      "stm32f100rct6": 176,
+      "stm32f101c4t6": 212,
+      "stm32f101c8t6": 212,
+      "stm32f101rct6": 212,
+      "stm32f101rft6": 212,
+      "stm32f102c4t6": 212,
+      "stm32f102c8t6": 212,
+      "stm32f103c4t6": 212,
+      "stm32f103c8t6": 212,
+      "stm32f103rct6": 212,
+      "stm32f103rft6": 212,
+      "stm32f105r8t6": 212,
+      "stm32f107rbt6": 212,
+      "stm32f205rbt6": 256,
+      "stm32f207ich6": 256,
+      "stm32f215ret6": 256,
+      "stm32f217ieh6": 256,
+      "stm32f301c6t6": 128,
+      "stm32f302c6t6": 140,
+      "stm32f302cbt6": 160,
+      "stm32f302rdt6": 172,
+      "stm32f303c6t6": 132,
+      "stm32f303cbt6": 184,
+      "stm32f303rdt6": 216,
+      "stm32f318c8t6": 128,
+      "stm32f328c8t6": 132,
+      "stm32f334c4t6": 140,
+      "stm32f358cct6": 184,
+      "stm32f373c8t6": 204,
+      "stm32f378cct6": 204,
+      "stm32f398vet6": 216,
+      "stm32f401cbu3": 152,
+      "stm32f401cdu6": 152,
+      "stm32f405oey6": 276,
+      "stm32f407ieh6": 276,
+      "stm32f410c8t3": 132,
+      "stm32f410r8i3": 132,
+      "stm32f410t8y6": 132,
+      "stm32f411ccu6": 156,
+      "stm32f412ceu6": 228,
+      "stm32f412ret6": 228,
+      "stm32f412veh3": 228,
+      "stm32f412zej3": 228,
+      "stm32f413cgu3": 276,
+      "stm32f427agh6": 276,
+      "stm32f429agh6": 276,
+      "stm32f446mcy6": 248,
+      "stm32f469aeh6": 308,
+      "stm32f722ick6": 272,
+      "stm32f723ick6": 272,
+      "stm32f730i8k6": 272,
+      "stm32f732iek6": 272,
+      "stm32f733iek6": 272,
+      "stm32f745iek6": 312,
+      "stm32f746bet6": 312,
+      "stm32f750n8h6": 312,
+      "stm32f756bgt6": 312,
+      "stm32f765bgt6": 336,
+      "stm32f767bgt6": 336,
+      "stm32f768aiy6": 336,
+      "stm32f769agy6": 336,
+      "stm32f777bit6": 336,
+      "stm32f778aiy6": 336,
+      "stm32f779aiy6": 336,
+      "stm32g030c6t6": 176,
+      "stm32g031c4t6": 240,
+      "stm32g041c6t6": 240,
+      "stm32g050c6t6": 176,
+      "stm32g051c6t6": 240,
+      "stm32g061c6t6": 240,
+      "stm32g070cbt6": 176,
+      "stm32g071c6t6": 240,
+      "stm32g081cbt6": 240,
+      "stm32g0b0cet6": 176,
+      "stm32g0b1cbt6": 240,
+      "stm32g0c1cct6": 240,
+      "stm32g431c6t6": 304,
+      "stm32g441cbt3": 304,
+      "stm32g471cct6": 304,
+      "stm32g473cbt3": 304,
+      "stm32g474cbt3": 304,
+      "stm32g483cet3": 304,
+      "stm32g484cet3": 304,
+      "stm32g491cct3": 304,
+      "stm32g4a1cet6": 304,
+      "stm32h723veh6": 452,
+      "stm32h733vgh6": 452,
+      "stm32h742agi6": 424,
+      "stm32h743agi6": 424,
+      "stm32h745bgt6@m4": 436,
+      "stm32h745bgt6@m7": 436,
+      "stm32h747agi6@m4": 436,
+      "stm32h747agi6@m7": 436,
+      "stm32h750ibk6": 424,
+      "stm32h753aii6": 424,
+      "stm32h755bit3@m4": 436,
+      "stm32h755bit3@m7": 436,
+      "stm32h757aii6@m4": 436,
+      "stm32h757aii6@m7": 436,
+      "stm32h7a3agi6q": 440,
+      "stm32h7b3aii6q": 440,
+      "stm32l011d3p6": 148,
+      "stm32l021d4p3": 148,
+      "stm32l031c4t6": 148,
+      "stm32l041c4t6": 148,
+      "stm32l051c6t6": 148,
+      "stm32l052c6t6": 168,
+      "stm32l053c6t6": 172,
+      "stm32l062c8u6": 168,
+      "stm32l063c8t6": 172,
+      "stm32l071c8t6": 148,
+      "stm32l072cbt6": 168,
+      "stm32l073cbt6": 172,
+      "stm32l081cbt6": 148,
+      "stm32l082czu3": 168,
+      "stm32l083cbt6": 172,
+      "stm32l100c6u6": 196,
+      "stm32l100rbt6a": 196,
+      "stm32l151c6t6": 196,
+      "stm32l151c6t6a": 196,
+      "stm32l151cbt6a": 196,
+      "stm32l151cct6": 196,
+      "stm32l151qch6": 196,
+      "stm32l151qeh6": 196,
+      "stm32l151r6h6": 196,
+      "stm32l151rct6": 196,
+      "stm32l151rct6a": 196,
+      "stm32l151vdt6x": 196,
+      "stm32l152c6t6": 196,
+      "stm32l152c6t6a": 196,
+      "stm32l152cbt6a": 196,
+      "stm32l152cct3": 196,
+      "stm32l152qch6": 196,
+      "stm32l152qeh6": 196,
+      "stm32l152r6h6": 196,
+      "stm32l152rct3": 196,
+      "stm32l152rct6a": 196,
+      "stm32l152vdt6x": 196,
+      "stm32l162qch6": 196,
+      "stm32l162rct6": 196,
+      "stm32l162ret6": 196,
+      "stm32l412c8t6": 224,
+      "stm32l422cbt6": 224,
+      "stm32l431cbt6": 224,
+      "stm32l432kbu6": 224,
+      "stm32l433cbt6": 224,
+      "stm32l442kcu6": 224,
+      "stm32l443ccf6": 224,
+      "stm32l451ccu3": 224,
+      "stm32l452ccu6": 224,
+      "stm32l462cet3": 224,
+      "stm32l471qei3": 244,
+      "stm32l475rct3": 244,
+      "stm32l476jey6": 244,
+      "stm32l485jcy6": 244,
+      "stm32l486jgy6": 244,
+      "stm32l496aei6": 280,
+      "stm32l4a6agi6": 280,
+      "stm32l4p5aei6": 304,
+      "stm32l4q5agi6": 304,
+      "stm32l4r5agi6": 292,
+      "stm32l4r7aii6": 292,
+      "stm32l4r9agi6": 292,
+      "stm32l4s5aii3": 292,
+      "stm32l4s7aii6": 292,
+      "stm32l4s9aii6": 292
+    }
+  },
+  "registers": {
+    "cm": {
+      "stm32f030c6t6": 1380,
+      "stm32f030c8t6": 1380,
+      "stm32f030cct6": 1380,
+      "stm32f031c4t6": 1268,
+      "stm32f038c6t6": 1612,
+      "stm32f042c4t6": 1784,
+      "stm32f048c6u6": 1612,
+      "stm32f051c4t6": 1612,
+      "stm32f058c8u6": 1612,
+      "stm32f070c6t6": 1612,
+      "stm32f070cbt6": 1612,
+      "stm32f071c8t6": 1612,
+      "stm32f072c8t6": 2164,
+      "stm32f078cbt6": 1612,
+      "stm32f091cbt6": 2296,
+      "stm32f098cct6": 1612,
+      "stm32f100c4t6": 2200,
+      "stm32f100rct6": 2200,
+      "stm32f101c4t6": 2124,
+      "stm32f101c8t6": 2124,
+      "stm32f101rct6": 2124,
+      "stm32f101rft6": 2124,
+      "stm32f102c4t6": 1212,
+      "stm32f102c8t6": 1212,
+      "stm32f103c4t6": 2816,
+      "stm32f103c8t6": 2816,
+      "stm32f103rct6": 2816,
+      "stm32f103rft6": 2816,
+      "stm32f105r8t6": 2972,
+      "stm32f107rbt6": 3184,
+      "stm32f205rbt6": 4996,
+      "stm32f207ich6": 4996,
+      "stm32f215ret6": 5324,
+      "stm32f217ieh6": 5324,
+      "stm32f301c6t6": 2072,
+      "stm32f302c6t6": 3736,
+      "stm32f302cbt6": 3736,
+      "stm32f302rdt6": 3736,
+      "stm32f303c6t6": 3760,
+      "stm32f303cbt6": 3760,
+      "stm32f303rdt6": 3760,
+      "stm32f318c8t6": 3920,
+      "stm32f328c8t6": 3920,
+      "stm32f334c4t6": 3464,
+      "stm32f358cct6": 3920,
+      "stm32f373c8t6": 3224,
+      "stm32f378cct6": 3920,
+      "stm32f398vet6": 3920,
+      "stm32f401cbu3": 2832,
+      "stm32f401cdu6": 2832,
+      "stm32f405oey6": 6068,
+      "stm32f407ieh6": 6068,
+      "stm32f410c8t3": 2072,
+      "stm32f410r8i3": 2072,
+      "stm32f410t8y6": 2072,
+      "stm32f411ccu6": 2868,
+      "stm32f412ceu6": 4500,
+      "stm32f412ret6": 4500,
+      "stm32f412veh3": 4500,
+      "stm32f412zej3": 4500,
+      "stm32f413cgu3": 5564,
+      "stm32f427agh6": 6196,
+      "stm32f429agh6": 6212,
+      "stm32f446mcy6": 5200,
+      "stm32f469aeh6": 6524,
+      "stm32f722ick6": 5752,
+      "stm32f723ick6": 5752,
+      "stm32f730i8k6": 5752,
+      "stm32f732iek6": 5752,
+      "stm32f733iek6": 5752,
+      "stm32f745iek6": 7008,
+      "stm32f746bet6": 7008,
+      "stm32f750n8h6": 7008,
+      "stm32f756bgt6": 7008,
+      "stm32f765bgt6": 10424,
+      "stm32f767bgt6": 10412,
+      "stm32f768aiy6": 10412,
+      "stm32f769agy6": 10408,
+      "stm32f777bit6": 10412,
+      "stm32f778aiy6": 10412,
+      "stm32f779aiy6": 10408,
+      "stm32g030c6t6": 1744,
+      "stm32g031c4t6": 1824,
+      "stm32g041c6t6": 1936,
+      "stm32g050c6t6": 1820,
+      "stm32g051c6t6": 1844,
+      "stm32g061c6t6": 1960,
+      "stm32g070cbt6": 2452,
+      "stm32g071c6t6": 2564,
+      "stm32g081cbt6": 2676,
+      "stm32g0b0cet6": 2210,
+      "stm32g0b1cbt6": 3046,
+      "stm32g0c1cct6": 3154,
+      "stm32g431c6t6": 4328,
+      "stm32g441cbt3": 4328,
+      "stm32g471cct6": 4832,
+      "stm32g473cbt3": 5484,
+      "stm32g474cbt3": 6272,
+      "stm32g483cet3": 5484,
+      "stm32g484cet3": 6368,
+      "stm32g491cct3": 4396,
+      "stm32g4a1cet6": 4492,
+      "stm32h723veh6": 12116,
+      "stm32h733vgh6": 12116,
+      "stm32h742agi6": 11684,
+      "stm32h743agi6": 11684,
+      "stm32h745bgt6@m4": 12400,
+      "stm32h745bgt6@m7": 12400,
+      "stm32h747agi6@m4": 11856,
+      "stm32h747agi6@m7": 11904,
+      "stm32h750ibk6": 11648,
+      "stm32h753aii6": 12116,
+      "stm32h755bit3@m4": 12400,
+      "stm32h755bit3@m7": 12400,
+      "stm32h757aii6@m4": 11856,
+      "stm32h757aii6@m7": 11904,
+      "stm32h7a3agi6q": 11732,
+      "stm32h7b3aii6q": 12492,
+      "stm32l011d3p6": 1748,
+      "stm32l021d4p3": 1748,
+      "stm32l031c4t6": 1748,
+      "stm32l041c4t6": 1748,
+      "stm32l051c6t6": 1748,
+      "stm32l052c6t6": 2024,
+      "stm32l053c6t6": 2072,
+      "stm32l062c8u6": 2024,
+      "stm32l063c8t6": 2072,
+      "stm32l071c8t6": 1748,
+      "stm32l072cbt6": 2024,
+      "stm32l073cbt6": 2072,
+      "stm32l081cbt6": 1748,
+      "stm32l082czu3": 2024,
+      "stm32l083cbt6": 2072,
+      "stm32l100c6u6": 1652,
+      "stm32l100rbt6a": 1652,
+      "stm32l151c6t6": 2252,
+      "stm32l151c6t6a": 1932,
+      "stm32l151cbt6a": 1932,
+      "stm32l151cct6": 2252,
+      "stm32l151qch6": 2276,
+      "stm32l151qeh6": 2212,
+      "stm32l151r6h6": 2276,
+      "stm32l151rct6": 2276,
+      "stm32l151rct6a": 1932,
+      "stm32l151vdt6x": 2276,
+      "stm32l152c6t6": 2252,
+      "stm32l152c6t6a": 1932,
+      "stm32l152cbt6a": 1932,
+      "stm32l152cct3": 2252,
+      "stm32l152qch6": 2276,
+      "stm32l152qeh6": 2212,
+      "stm32l152r6h6": 2276,
+      "stm32l152rct3": 2276,
+      "stm32l152rct6a": 1932,
+      "stm32l152vdt6x": 2276,
+      "stm32l162qch6": 2276,
+      "stm32l162rct6": 2276,
+      "stm32l162ret6": 2276,
+      "stm32l412c8t6": 3924,
+      "stm32l422cbt6": 3924,
+      "stm32l431cbt6": 3924,
+      "stm32l432kbu6": 3924,
+      "stm32l433cbt6": 3216,
+      "stm32l442kcu6": 3924,
+      "stm32l443ccf6": 3216,
+      "stm32l451ccu3": 3924,
+      "stm32l452ccu6": 3924,
+      "stm32l462cet3": 3924,
+      "stm32l471qei3": 3924,
+      "stm32l475rct3": 4612,
+      "stm32l476jey6": 5872,
+      "stm32l485jcy6": 4612,
+      "stm32l486jgy6": 5872,
+      "stm32l496aei6": 5872,
+      "stm32l4a6agi6": 5872,
+      "stm32l4p5aei6": 4612,
+      "stm32l4q5agi6": 4612,
+      "stm32l4r5agi6": 14084,
+      "stm32l4r7aii6": 14084,
+      "stm32l4r9agi6": 14084,
+      "stm32l4s5aii3": 14084,
+      "stm32l4s7aii6": 14084,
+      "stm32l4s9aii6": 14084
+    },
+    "hd": {
+      "stm32f030c6t6": 1159,
+      "stm32f030c8t6": 1445,
+      "stm32f030cct6": 1701,
+      "stm32f031c4t6": 1223,
+      "stm32f038c6t6": 1223,
+      "stm32f042c4t6": 1713,
+      "stm32f048c6u6": 1713,
+      "stm32f051c4t6": 1681,
+      "stm32f058c8u6": 1681,
+      "stm32f070c6t6": 1229,
+      "stm32f070cbt6": 1647,
+      "stm32f071c8t6": 1977,
+      "stm32f072c8t6": 2251,
+      "stm32f078cbt6": 2251,
+      "stm32f091cbt6": 2637,
+      "stm32f098cct6": 2637,
+      "stm32f100c4t6": 1685,
+      "stm32f100rct6": 2469,
+      "stm32f101c4t6": 893,
+      "stm32f101c8t6": 1101,
+      "stm32f101rct6": 1929,
+      "stm32f101rft6": 2449,
+      "stm32f102c4t6": 919,
+      "stm32f102c8t6": 1099,
+      "stm32f103c4t6": 1323,
+      "stm32f103c8t6": 1531,
+      "stm32f103rct6": 2595,
+      "stm32f103rft6": 3115,
+      "stm32f105r8t6": 2753,
+      "stm32f107rbt6": 2965,
+      "stm32f205rbt6": 4161,
+      "stm32f207ich6": 4429,
+      "stm32f215ret6": 4485,
+      "stm32f217ieh6": 4753,
+      "stm32f301c6t6": 1949,
+      "stm32f302c6t6": 2333,
+      "stm32f302cbt6": 2837,
+      "stm32f302rdt6": 3005,
+      "stm32f303c6t6": 2421,
+      "stm32f303cbt6": 3297,
+      "stm32f303rdt6": 3565,
+      "stm32f318c8t6": 1953,
+      "stm32f328c8t6": 2421,
+      "stm32f334c4t6": 3121,
+      "stm32f358cct6": 3297,
+      "stm32f373c8t6": 3285,
+      "stm32f378cct6": 3259,
+      "stm32f398vet6": 3565,
+      "stm32f401cbu3": 2425,
+      "stm32f401cdu6": 2425,
+      "stm32f405oey6": 4261,
+      "stm32f407ieh6": 4529,
+      "stm32f410c8t3": 1889,
+      "stm32f410r8i3": 1889,
+      "stm32f410t8y6": 1789,
+      "stm32f411ccu6": 2461,
+      "stm32f412ceu6": 3817,
+      "stm32f412ret6": 3981,
+      "stm32f412veh3": 4021,
+      "stm32f412zej3": 4101,
+      "stm32f413cgu3": 5149,
+      "stm32f427agh6": 7017,
+      "stm32f429agh6": 7165,
+      "stm32f446mcy6": 4541,
+      "stm32f469aeh6": 7497,
+      "stm32f722ick6": 4669,
+      "stm32f723ick6": 4681,
+      "stm32f730i8k6": 4777,
+      "stm32f732iek6": 4765,
+      "stm32f733iek6": 4777,
+      "stm32f745iek6": 7561,
+      "stm32f746bet6": 7709,
+      "stm32f750n8h6": 8141,
+      "stm32f756bgt6": 8141,
+      "stm32f765bgt6": 8629,
+      "stm32f767bgt6": 10793,
+      "stm32f768aiy6": 10793,
+      "stm32f769agy6": 11089,
+      "stm32f777bit6": 11225,
+      "stm32f778aiy6": 11225,
+      "stm32f779aiy6": 11521,
+      "stm32g030c6t6": 1776,
+      "stm32g031c4t6": 2036,
+      "stm32g041c6t6": 2144,
+      "stm32g050c6t6": 2156,
+      "stm32g051c6t6": 2488,
+      "stm32g061c6t6": 2596,
+      "stm32g070cbt6": 2236,
+      "stm32g071c6t6": 2728,
+      "stm32g081cbt6": 2836,
+      "stm32g0b0cet6": 2804,
+      "stm32g0b1cbt6": 3684,
+      "stm32g0c1cct6": 3792,
+      "stm32g431c6t6": 3714,
+      "stm32g441cbt3": 3810,
+      "stm32g471cct6": 4446,
+      "stm32g473cbt3": 5242,
+      "stm32g474cbt3": 6126,
+      "stm32g483cet3": 5338,
+      "stm32g484cet3": 6222,
+      "stm32g491cct3": 4354,
+      "stm32g4a1cet6": 4450,
+      "stm32h723veh6": 12456,
+      "stm32h733vgh6": 13248,
+      "stm32h742agi6": 12396,
+      "stm32h743agi6": 14560,
+      "stm32h745bgt6@m4": 14808,
+      "stm32h745bgt6@m7": 14808,
+      "stm32h747agi6@m4": 15104,
+      "stm32h747agi6@m7": 15104,
+      "stm32h750ibk6": 14992,
+      "stm32h753aii6": 14992,
+      "stm32h755bit3@m4": 15240,
+      "stm32h755bit3@m7": 15240,
+      "stm32h757aii6@m4": 15536,
+      "stm32h757aii6@m7": 15536,
+      "stm32h7a3agi6q": 21968,
+      "stm32h7b3aii6q": 22760,
+      "stm32l011d3p6": 929,
+      "stm32l021d4p3": 977,
+      "stm32l031c4t6": 1081,
+      "stm32l041c4t6": 1129,
+      "stm32l051c6t6": 1317,
+      "stm32l052c6t6": 1471,
+      "stm32l053c6t6": 1551,
+      "stm32l062c8u6": 1519,
+      "stm32l063c8t6": 1599,
+      "stm32l071c8t6": 1657,
+      "stm32l072cbt6": 1839,
+      "stm32l073cbt6": 1919,
+      "stm32l081cbt6": 1705,
+      "stm32l082czu3": 1887,
+      "stm32l083cbt6": 1967,
+      "stm32l100c6u6": 1719,
+      "stm32l100rbt6a": 1991,
+      "stm32l151c6t6": 1739,
+      "stm32l151c6t6a": 1739,
+      "stm32l151cbt6a": 2148,
+      "stm32l151cct6": 2148,
+      "stm32l151qch6": 2465,
+      "stm32l151qeh6": 2344,
+      "stm32l151r6h6": 1739,
+      "stm32l151rct6": 2148,
+      "stm32l151rct6a": 2465,
+      "stm32l151vdt6x": 2344,
+      "stm32l152c6t6": 1819,
+      "stm32l152c6t6a": 1819,
+      "stm32l152cbt6a": 2228,
+      "stm32l152cct3": 2228,
+      "stm32l152qch6": 2545,
+      "stm32l152qeh6": 2424,
+      "stm32l152r6h6": 1819,
+      "stm32l152rct3": 2228,
+      "stm32l152rct6a": 2545,
+      "stm32l152vdt6x": 2424,
+      "stm32l162qch6": 2593,
+      "stm32l162rct6": 2276,
+      "stm32l162ret6": 2472,
+      "stm32l412c8t6": 2487,
+      "stm32l422cbt6": 2583,
+      "stm32l431cbt6": 3101,
+      "stm32l432kbu6": 2855,
+      "stm32l433cbt6": 3211,
+      "stm32l442kcu6": 2951,
+      "stm32l443ccf6": 3307,
+      "stm32l451ccu3": 3269,
+      "stm32l452ccu6": 3299,
+      "stm32l462cet3": 3395,
+      "stm32l471qei3": 4465,
+      "stm32l475rct3": 4617,
+      "stm32l476jey6": 4697,
+      "stm32l485jcy6": 4713,
+      "stm32l486jgy6": 4793,
+      "stm32l496aei6": 7317,
+      "stm32l4a6agi6": 7701,
+      "stm32l4p5aei6": 7696,
+      "stm32l4q5agi6": 11380,
+      "stm32l4r5agi6": 6936,
+      "stm32l4r7aii6": 15308,
+      "stm32l4r9agi6": 15596,
+      "stm32l4s5aii3": 7320,
+      "stm32l4s7aii6": 15692,
+      "stm32l4s9aii6": 15980
+    },
+    "rm": {
+      "stm32f030c6t6": 1548,
+      "stm32f030c8t6": 1548,
+      "stm32f030cct6": 1464,
+      "stm32f031c4t6": 2772,
+      "stm32f038c6t6": 2772,
+      "stm32f042c4t6": 2772,
+      "stm32f048c6u6": 2772,
+      "stm32f051c4t6": 2772,
+      "stm32f058c8u6": 2772,
+      "stm32f070c6t6": 1548,
+      "stm32f070cbt6": 1548,
+      "stm32f071c8t6": 2660,
+      "stm32f072c8t6": 2660,
+      "stm32f078cbt6": 2660,
+      "stm32f091cbt6": 2696,
+      "stm32f098cct6": 2696,
+      "stm32f100c4t6": 1436,
+      "stm32f100rct6": 1908,
+      "stm32f101c4t6": 3726,
+      "stm32f101c8t6": 3726,
+      "stm32f101rct6": 3726,
+      "stm32f101rft6": 3726,
+      "stm32f102c4t6": 3726,
+      "stm32f102c8t6": 3726,
+      "stm32f103c4t6": 3726,
+      "stm32f103c8t6": 3726,
+      "stm32f103rct6": 3726,
+      "stm32f103rft6": 3726,
+      "stm32f105r8t6": 3734,
+      "stm32f107rbt6": 3734,
+      "stm32f205rbt6": 5128,
+      "stm32f207ich6": 5128,
+      "stm32f215ret6": 5128,
+      "stm32f217ieh6": 5128,
+      "stm32f301c6t6": 1600,
+      "stm32f302c6t6": 2412,
+      "stm32f302cbt6": 2504,
+      "stm32f302rdt6": 2936,
+      "stm32f303c6t6": 2136,
+      "stm32f303cbt6": 3016,
+      "stm32f303rdt6": 3928,
+      "stm32f318c8t6": 1600,
+      "stm32f328c8t6": 2136,
+      "stm32f334c4t6": 2268,
+      "stm32f358cct6": 3016,
+      "stm32f373c8t6": 2968,
+      "stm32f378cct6": 2968,
+      "stm32f398vet6": 3928,
+      "stm32f401cbu3": 2396,
+      "stm32f401cdu6": 2396,
+      "stm32f405oey6": 6872,
+      "stm32f407ieh6": 6872,
+      "stm32f410c8t3": 1684,
+      "stm32f410r8i3": 1684,
+      "stm32f410t8y6": 1684,
+      "stm32f411ccu6": 2420,
+      "stm32f412ceu6": 3904,
+      "stm32f412ret6": 3904,
+      "stm32f412veh3": 3904,
+      "stm32f412zej3": 3904,
+      "stm32f413cgu3": 5308,
+      "stm32f427agh6": 6884,
+      "stm32f429agh6": 6884,
+      "stm32f446mcy6": 4592,
+      "stm32f469aeh6": 8492,
+      "stm32f722ick6": 4820,
+      "stm32f723ick6": 4820,
+      "stm32f730i8k6": 4820,
+      "stm32f732iek6": 4820,
+      "stm32f733iek6": 4820,
+      "stm32f745iek6": 7888,
+      "stm32f746bet6": 7888,
+      "stm32f750n8h6": 7888,
+      "stm32f756bgt6": 7888,
+      "stm32f765bgt6": 11076,
+      "stm32f767bgt6": 11076,
+      "stm32f768aiy6": 11076,
+      "stm32f769agy6": 11076,
+      "stm32f777bit6": 11076,
+      "stm32f778aiy6": 11076,
+      "stm32f779aiy6": 11076,
+      "stm32g030c6t6": 2496,
+      "stm32g031c4t6": 3508,
+      "stm32g041c6t6": 3508,
+      "stm32g050c6t6": 2496,
+      "stm32g051c6t6": 3508,
+      "stm32g061c6t6": 3508,
+      "stm32g070cbt6": 2496,
+      "stm32g071c6t6": 3508,
+      "stm32g081cbt6": 3508,
+      "stm32g0b0cet6": 2496,
+      "stm32g0b1cbt6": 3508,
+      "stm32g0c1cct6": 3508,
+      "stm32g431c6t6": 5988,
+      "stm32g441cbt3": 5988,
+      "stm32g471cct6": 5988,
+      "stm32g473cbt3": 5988,
+      "stm32g474cbt3": 5988,
+      "stm32g483cet3": 5988,
+      "stm32g484cet3": 5988,
+      "stm32g491cct3": 5988,
+      "stm32g4a1cet6": 5988,
+      "stm32h723veh6": 11748,
+      "stm32h733vgh6": 11748,
+      "stm32h742agi6": 13864,
+      "stm32h743agi6": 13864,
+      "stm32h745bgt6@m4": 14040,
+      "stm32h745bgt6@m7": 14040,
+      "stm32h747agi6@m4": 14040,
+      "stm32h747agi6@m7": 14040,
+      "stm32h750ibk6": 13864,
+      "stm32h753aii6": 13864,
+      "stm32h755bit3@m4": 14040,
+      "stm32h755bit3@m7": 14040,
+      "stm32h757aii6@m4": 14040,
+      "stm32h757aii6@m7": 14040,
+      "stm32h7a3agi6q": 22792,
+      "stm32h7b3aii6q": 22792,
+      "stm32l011d3p6": 1616,
+      "stm32l021d4p3": 1616,
+      "stm32l031c4t6": 1616,
+      "stm32l041c4t6": 1616,
+      "stm32l051c6t6": 1616,
+      "stm32l052c6t6": 1832,
+      "stm32l053c6t6": 1880,
+      "stm32l062c8u6": 1832,
+      "stm32l063c8t6": 1880,
+      "stm32l071c8t6": 1616,
+      "stm32l072cbt6": 1832,
+      "stm32l073cbt6": 1880,
+      "stm32l081cbt6": 1616,
+      "stm32l082czu3": 1832,
+      "stm32l083cbt6": 1880,
+      "stm32l100c6u6": 2404,
+      "stm32l100rbt6a": 2404,
+      "stm32l151c6t6": 2404,
+      "stm32l151c6t6a": 2404,
+      "stm32l151cbt6a": 2404,
+      "stm32l151cct6": 2404,
+      "stm32l151qch6": 2404,
+      "stm32l151qeh6": 2404,
+      "stm32l151r6h6": 2404,
+      "stm32l151rct6": 2404,
+      "stm32l151rct6a": 2404,
+      "stm32l151vdt6x": 2404,
+      "stm32l152c6t6": 2404,
+      "stm32l152c6t6a": 2404,
+      "stm32l152cbt6a": 2404,
+      "stm32l152cct3": 2404,
+      "stm32l152qch6": 2404,
+      "stm32l152qeh6": 2404,
+      "stm32l152r6h6": 2404,
+      "stm32l152rct3": 2404,
+      "stm32l152rct6a": 2404,
+      "stm32l152vdt6x": 2404,
+      "stm32l162qch6": 2404,
+      "stm32l162rct6": 2404,
+      "stm32l162ret6": 2404,
+      "stm32l412c8t6": 3332,
+      "stm32l422cbt6": 3332,
+      "stm32l431cbt6": 3332,
+      "stm32l432kbu6": 3332,
+      "stm32l433cbt6": 3332,
+      "stm32l442kcu6": 3332,
+      "stm32l443ccf6": 3332,
+      "stm32l451ccu3": 3332,
+      "stm32l452ccu6": 3332,
+      "stm32l462cet3": 3332,
+      "stm32l471qei3": 4380,
+      "stm32l475rct3": 4380,
+      "stm32l476jey6": 4380,
+      "stm32l485jcy6": 4380,
+      "stm32l486jgy6": 4380,
+      "stm32l496aei6": 7424,
+      "stm32l4a6agi6": 7424,
+      "stm32l4p5aei6": 7968,
+      "stm32l4q5agi6": 7968,
+      "stm32l4r5agi6": 16024,
+      "stm32l4r7aii6": 16024,
+      "stm32l4r9agi6": 16024,
+      "stm32l4s5aii3": 16024,
+      "stm32l4s7aii6": 16024,
+      "stm32l4s9aii6": 16024
+    }
+  }
+}

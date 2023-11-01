@@ -1,0 +1,163 @@
+# These signals are always either Analog or Special (not AF multiplexed)
+# See `mixed_af_count_simple` output in output_eval_signals.txt
+
+(-654, 'COMP_INP', '14-A')
+(-23, 'COMP_INM', '14-A')
+# Entirely caused by STM32L151/STM32L152 device files
+(-216, 'COMP_INM', '7-A')
+(-72, 'COMP_INP', '7-A')
+# Entirely caused by STM32F051/STM32F058 device files
+# CubeMX is wrong, these are always analog signals.
+
+(-96, 'COMP_OUT', '7-A')
+(-45, 'COMP_OUT', '12-A')
+(-30, 'COMP_OUT', '6-A')
+# Digital signals
+
+(-607, 'RTC_OUT', '0-A')
+(-204, 'RTC_OUT', '2-A')
+(-140, 'RTC_TS', '0-A')
+(-87, 'RTC_AF', '0-A')
+# Digital special signal: Partially mapped to AF or hardwired
+
+(-514, 'SYS_WKUP', '0-A')
+(-319, 'SYS_TAMP', '0-A')
+(-46, 'SYS_VREF_OUT', '14-A')
+(-23, 'SYS_PVD_IN', '14-A')
+# Digital special signal: Hardwired signal typically on PA0 pin
+
+(-497, 'RCC_OSC_IN', '0-A')
+(-497, 'RCC_OSC_OUT', '0-A')
+# Hardwired special signal: Enabled by RCC peripheral
+
+(-446, 'TIM_ETR', '1-A')
+(-6, 'TIM_ETR', '2-A')
+# Digital signal: Partially mapped to AF or hardwired
+
+(-296, 'UCPD_FRSTX', '6-A')
+(-105, 'UCPD_FRSTX', '4-A')
+(-93, 'UCPD_FRSTX', '0-A')
+(-69, 'UCPD_FRSTX', '1-A')
+# Digital pin, should be AF: USB-C Power Delivery
+
+(-259, 'RTC_REFIN', '0-A')
+# Digital signal: Partially mapped to AF or hardwired
+
+(-258, 'TIM_BKIN', '1-3')
+(-256, 'TIM_BKIN', '13-3')
+(-128, 'TIM_BKIN', '1-12')
+(-128, 'TIM_BKIN', '12-2')
+(-128, 'TIM_BKIN', '12-3')
+(-108, 'TIM_BKIN', '1-14')
+(-91, 'TIM_BKIN', '2-3')
+# Always digital, probably an issue with normalization CubeMX uses BKIN_COMP combinations
+
+(-205, 'SYS_JTRST', '0-A')
+(-64, 'SYS_SWDIO', '0-A')
+# Digital signal
+
+(-180, 'SPDIFRX_IN', '9-A')
+(-130, 'SPDIFRX_IN', '8-A')
+# Digital signals, mostly an issue in CubeMX STM32H7 data
+
+
+
+# All of these are digital signals
+
+(-72, 'UART_CTS', '8-A')
+
+(-71, 'USB_OTG_HS_VBUS', '12-A')
+(-15, 'USB_OTG_HS_ULPI_DIR', '10-A')
+(-15, 'USB_OTG_HS_ULPI_NXT', '10-A')
+
+(-43, 'OCTOSPIM_P_NCS', '6-A')
+
+(-32, 'RCC_LSCO', '0-A')
+
+(-15, 'ETH_TXD', '11-A')
+(-15, 'ETH_TX_CLK', '11-A')
+
+(-7, 'TIM_CH', '1-A')
+(-5, 'TIM_CH', '10-A')
+
+
+# Found in PDF but not CubeMX:
+-1547, 'SPDIFRX_IN'
+-1418, 'RTC_OUT'
+-1107, 'TIM_BKIN'
+ -770, 'SPI_SS'
+ -767, 'SYS_TAMP'
+ -747, 'CAN_TX'
+ -726, 'COMP_INP'
+ -709, 'CAN_RX'
+ -645, 'SYS_WKUP'
+ -604, 'RCC_OSC_IN'
+ -599, 'ADC_INM'
+ -563, 'UCPD_FRSTX'
+ -553, 'ADC_INP'
+ -497, 'RCC_OSC_OUT'
+ -454, 'TIM_ETR'
+ -450, 'RTC_TS'
+
+
+# Found in CubeMX but not PDF
+-2538, 'USART_DE'
+-1871, 'USART_CK'
+-1547, 'SPDIFRX_IN'
+-1502, 'RTC_OUT'
+-1382, 'UART_DE'
+-1139, 'TIM_BKIN'
+ -812, 'UCPD_FRSTX'
+ -770, 'SPI_CTS'
+ -732, 'COMP_INP'
+ -574, 'IC_SCL'
+ -556, 'RCC_OSC_OUT'
+ -548, 'SYS_TAMP'
+ -539, 'RTC_AF'
+ -536, 'RCC_OSC_IN'
+ -519, 'IC_SDA'
+ -516, 'SYS_WKUP'
+ -473, 'TIM_ETR'
+ -431, 'FMC_ALE'
+ -431, 'FMC_CLE'
+ -382, 'RTC_REFIN'
+ -345, 'RTC_TS'
+ -341, 'PWR_CSLEEP'
+ -308, 'FMC_D'
+
+
+# Missing or added in both sources
+-3094, 'SPDIFRX_IN' # CubeMX data for STM32H7 has this signal without AF
+-2920, 'RTC_OUT' # Confusion about AF or register mapping
+-2538, 'USART_DE' # Normalization issues with USART_RTS_DE combination signal in CubeMX
+-2246, 'TIM_BKIN' # Normalization issues with TIM_CHx_BKIN combination signal in CubeMX
+-1875, 'USART_CK'
+-1458, 'COMP_INP' # Confusion about AF or register mapping
+-1382, 'UART_DE'
+-1375, 'UCPD_FRSTX'
+-1315, 'SYS_TAMP'
+-1161, 'SYS_WKUP'
+-1140, 'RCC_OSC_IN'
+-1053, 'RCC_OSC_OUT'
+ -927, 'TIM_ETR'
+ -795, 'RTC_TS' # Confusion about AF or register mapping
+ -776, 'SPI_CTS'
+ -770, 'SPI_SS'
+ -768, 'CAN_TX'
+ -729, 'CAN_RX'
+ -675, 'RTC_REFIN'
+ -674, 'ADC_INP'
+ -656, 'IC_SCL'
+ -626, 'RTC_AF'
+ -608, 'IC_SDA'
+ -599, 'ADC_INM'
+ -516, 'IC_SMBAL'
+ -478, 'COMP_INM'
+ -431, 'FMC_ALE'
+ -431, 'FMC_CLE'
+ -423, 'COMP_OUT'
+ -410, 'SYS_JTRST'
+ -368, 'LTDC_SEG'
+ -342, 'PWR_CSLEEP'
+ -308, 'FMC_D'
+ -301, 'SYS_PVD_IN'
